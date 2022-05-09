@@ -1,0 +1,58 @@
+PUT /pricechoice_v2
+GET pricechoice_v2/
+GET pricechoice_v2/_search
+{
+"size": 932
+  
+}
+#DELETE /pricechoice_v2
+
+
+PUT pricechoice_v2/_mapping
+{
+  "properties": {
+    "gender": {
+      "type": "keyword"
+    },
+    "title": {
+      "type": "text"
+    },
+    "price": {
+      "type": "float"
+    },
+    "sale_price": {
+      "type": "float"
+    },
+    "vendor": {
+      "type": "keyword"
+    },
+     "image": {
+      "type": "keyword"
+    },
+    
+    "product_type": {
+      "type": "keyword"
+    },
+    
+                "domain": {
+      "type": "keyword"
+    },
+    "updatedAt": {
+      "type": "date"
+    }
+   
+  }
+}
+
+GET pricechoice_v2/_search
+{
+  "size": 0,
+  "aggs": {
+    "langs": {
+      "terms": {
+        "field": "domain",
+        "size": 500
+      }
+    }
+  }
+}
