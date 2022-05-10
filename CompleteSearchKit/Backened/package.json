@@ -1,0 +1,16 @@
+{
+  "name": "with-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index"
+  },
+  "dependencies": {
+    "@searchkit/schema": "^3.0.0-canary.41",
+    "apollo-server-express": "^2.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "graphql": "^16.5.0"
+  }
+}
