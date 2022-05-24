@@ -1,0 +1,832 @@
+{
+  "Groceries & Pets": {
+    "Beverages": [
+      "Coffee",
+      "Tea",
+      "Hot Chocolate Drinks",
+      "UHT, Milk & Milk Powder",
+      "Powdered Drink Mixes",
+      "Flavoring Syrups",
+      "Water",
+      "Soft Drinks",
+      "Juices"
+    ],
+    "Fresh Products": [
+      "Fresh Fruit",
+      "Fresh Vegetables",
+      "Bread",
+      "Eggs",
+      "Dry Fruits"
+    ],
+    "Breakfast, Choco & Snacks": [
+      "Biscuit",
+      "Breakfast Cereals",
+      "Chocolate",
+      "Nuts",
+      "Oatmeals",
+      "Breakfast Bars",
+      "Snacks",
+      "Instant Breakfast Drinks",
+      "Jams, Honey & Spreads",
+      "Pancake & Waffle Mixes"
+    ],
+    "Food Staples": [
+      "Canned Food",
+      "Condiment Dressing",
+      "Cooking Ingredients",
+      "Grains, Beans & Pulses",
+      "Home Baking & Sugar",
+      "Instant & Ready-to-Eat",
+      "Jarred Food",
+      "Noodles",
+      "Rice",
+      "Oil"
+    ],
+    "Dairy & Chilled": [""],
+    "Laundry & Household": [
+      "AirCare",
+      "Cleaning",
+      "Dishwashing",
+      "Laundry",
+      "Pest Control",
+      "Paper"
+    ],
+    "Cat": [
+      "Food",
+      "Beds, Mats & Houses",
+      "Carriers & Travel",
+      "Grooming",
+      "Litter & Toilet",
+      "Toys",
+      "Cat Treats",
+      "Trees, Condos & Scratchers",
+      "Bowls & Feeders",
+      "Cages, Crates & Doors"
+    ],
+    "Dog": [
+      "Food",
+      "Beds, Mats & Houses",
+      "Carriers & Travel",
+      "Grooming",
+      "Leashes, Collars & Muzzles",
+      "Toys",
+      "Treats",
+      "Fleas & Ticks",
+      "Bowls & Feeders",
+      "Cages, Crates & Doors"
+    ],
+    "Fish": [
+      "Aquarium Temp Control",
+      "Food",
+      "Aquariums",
+      "Aquarium Cleaning Tools",
+      "Aquarium Filters",
+      "Aquarium Lighting",
+      "Aquarium Water Pumps",
+      "Aquarium Decorations",
+      "Starter Kits",
+      "Aquarium Air Pumps"
+    ],
+    "Frozen Food": ["Chicken", "Beef", "Other Frozen Food"]
+  },
+  "Health & Beauty": {
+    "Bath & Body": [
+      "Body & Massage Oils",
+      "Body Soaps & Shower Gels",
+      "Foot Care",
+      "Hair Removal",
+      "Hand Care",
+      "Body Moisturizers",
+      "Breast Care",
+      "Talcum Powder",
+      "Bath & Body Accessories"
+    ],
+    "Beauty Tools": [
+      "Curling Irons & Wands",
+      "Flat Irons",
+      "Multi-stylers",
+      "Hair Dryers",
+      "Hair Removal Appliances",
+      "Skin Care Tools",
+      "Slimming & Electric Massagers"
+    ],
+    "Fragrances": ["Women Fragrances", "Men Fragrances", "Unisex"],
+    "Hair Care": [
+      "Shampoo",
+      "Hair Treatments",
+      "Hair Accessories",
+      "Hair Care Accessories",
+      "Hair Brushes & Combs",
+      "Hair Coloring",
+      "Hair Conditioner",
+      "Hair Styling",
+      "Wig & Hair Extensions & Pads"
+    ],
+    "Makeup": [
+      "Foundation",
+      "Lips",
+      "Eyes",
+      "Nails",
+      "Brushes & Sets",
+      "Makeup Accessories",
+      "Makeup Removers",
+      "Body",
+      "Makeup Palettes & Sets"
+    ],
+    "Men's Care": [
+      "Bath & Body",
+      "Hair Care",
+      "Hair Dryers",
+      "Shaving & Grooming",
+      "Sports Nutrition"
+    ],
+    "Personal Care": [
+      "Oral Care",
+      "Adult Diapers & Incontinence",
+      "Deodorants",
+      "Feminine Wash"
+    ],
+    "Skin Care": [
+      "Serum & Essence",
+      "Dermacare",
+      "Face Scrubs & Exfoliators",
+      "Facial Cleansers",
+      "Sunscreen & Aftersun",
+      "Eye Care",
+      "Face Mask & Packs",
+      "Moisturizers and Cream",
+      "Toner & Mists"
+    ],
+    "Sexual Wellness": ["Condoms", "Lubricants"],
+    "Medical Supplies": [
+      "Surgical Masks",
+      "Health Accessories",
+      "Blood Pressure Monitors",
+      "Nebulizer & Aspirators",
+      "Thermometers",
+      "Blood Glucose Monitors",
+      "First Aid Supplies",
+      "Injury Support and Braces",
+      "Ointments and Creams",
+      "Pulse Oximeters",
+      "Scale & Body Fat Analyzers"
+    ]
+  },
+  "Women's Fashion": {
+    "Unstitched Fabric": ["Branded Unstitched", "Sarees"],
+    "Kurtas & Shalwar Kameez": [
+      "Kurtis",
+      "Shalwar Kameez",
+      "Branded Pret",
+      "Trousers & Palazzos"
+    ],
+    "Muslim Wear": [
+      "Abayas & Hijabs",
+      "Dupattas, Stoles & Shawls",
+      "Scarves",
+      "Hair Accessories"
+    ],
+    "Tops": ["Blouses & Shirts", "Tunics", "T-Shirts"],
+    "Bras, Panties & Lingerie": [
+      "Bras",
+      "Panties",
+      "Lingerie Sets",
+      "Beachwear and Bikinis",
+      "Socks & Tights"
+    ],
+    "Sleepwear & Innerwear": [
+      "Nightwear",
+      "Robe and Gown sets",
+      "Tanks & Camisoles",
+      "Shapewear"
+    ],
+    "Pants, Jeans & Leggings": [
+      "Pants",
+      "Leggings",
+      "Jeans",
+      "Shorts",
+      "Jeggings"
+    ],
+    "Dresses & Skirts": [
+      "Ethnic Dresses",
+      "Western Dresses",
+      "Skirts",
+      "Formal Wear"
+    ],
+    "Winter Clothing": [
+      "Jackets & Coats",
+      "Hoodies & Sweatshirts",
+      "Sweaters & Cardigans",
+      "Shawls and Poncho's",
+      "Shrugs"
+    ],
+    "Shoes": [
+      "Sandals",
+      "Flat Shoes",
+      "Heels",
+      "Khussa & Kohlapuri",
+      "Slides & Flip FLops",
+      "Wedges",
+      "Sneakers",
+      "Boots",
+      "Shoes Accessories"
+    ],
+    "Girls Clothing": [
+      "Dresses",
+      "Tops",
+      "Underwear & Sleepwear",
+      "Bottoms",
+      "Socks & Tights",
+      "Jackets & Coats",
+      "Swimsuits",
+      "Hoodies",
+      "Hair Accessories",
+      "Hats & Caps",
+      "Belts",
+      "Gloves, Scarves & Cold Weather"
+    ],
+    "Girls Shoes": [""]
+  },
+  "Men's Fashion": {
+    "T-Shirts & Tanks": ["V Neck", "Round Neck", "Graphic tees", "Top Rated"],
+    "Shirts & Polo": ["Casual Shirts", "Formal Shirts", "Polos"],
+    "Pants & Jeans": ["Chinos", "Cargo", "Jeans"],
+    "Shorts, Joggers & Sweats": ["Shorts", "Joggers & Sweats"],
+    "Kurtas & Shalwar Kameez": [
+      "Unstitched Fabric",
+      "Kurtas",
+      "Shalwar",
+      "Shawls"
+    ],
+    "Winter Clothing": [
+      "Jackets & Coats",
+      "Hoodies & Sweatshirts",
+      "Sweaters & Cardigans"
+    ],
+    "Inner Wear": [
+      "Briefs",
+      "Trunk & Boxers",
+      "Nightwear",
+      "Vests",
+      "Thermal",
+      "Socks"
+    ],
+    "Shoes": [
+      "Slip-Ons & Loafers",
+      "Flip Flops & Sandals",
+      "Sneakers",
+      "Formal Shoes",
+      "Boots",
+      "Khusa & Kolapuri",
+      "Shoes Accessories"
+    ],
+    "Accessories": ["Belts", "Sunglasses", "Hats & Caps", "Ties & Bows"],
+    "Boy's Clothing": [
+      "T-Shirts & Shirts",
+      "Pants & Jeans",
+      "Shorts",
+      "Kurtas & Shalwar Kameez",
+      "Underwear & Socks"
+    ],
+    "Boy's Shoes": [""],
+    "Boy's Accessories": ["Belts", "Inner Wear", "Socks", "Hats & Caps"]
+  },
+  "Babies & Toys": {
+    "Diapering & Potty": [
+      "Disposable diapers",
+      "Diaper Bags",
+      "Wipes & Holders",
+      "Changing Tables, Pads & Kits",
+      "Diapering Care",
+      "Cloth Diapers & Accessories",
+      "Potty Training"
+    ],
+    "Milk Formula & Baby Food": [
+      "Growing-up Milk (3yrs +)",
+      "Toddler Milk (1 - under 3 yrs)",
+      "Maternal",
+      "Baby & Toddler Foods"
+    ],
+    "Feeding": ["Utensils", "Bottle-Feeding", "Breastfeeding", "Food Blenders"],
+    "Baby Gear": [
+      "Kids Bag",
+      "Swings, Jumpers & Bouncers",
+      "Strollers",
+      "Car Seats",
+      "Walkers",
+      "Backpacks & Carriers",
+      "Harnesses & Leashes"
+    ],
+    "Baby & Toddler Toys": [
+      "Activity Gym & Playmats",
+      "Bath Toys",
+      "Building Blocks Toys",
+      "Crib Toys & Attachments",
+      "Early Development Toys",
+      "Music & Sound",
+      "Rattles",
+      "Push & Pull Toys"
+    ],
+    "Remote Control & Vehicles": [
+      "Die-Cast Vehicles",
+      "Drones & Accessories",
+      "Play Trains & Railway Sets",
+      "Play Vehicles",
+      "RC Vehicles & Batteries"
+    ],
+    "Sports & Outdoor Play": [
+      "Inflatable Bouncers",
+      "Swimming Pool & Water Toys",
+      "Fidget Spinners"
+    ],
+    "Nursery": [
+      "Baby Furniture",
+      "Mattresses & Bedding",
+      "Storage & Organization"
+    ],
+    "Baby Personal Care": [
+      "Skin Care",
+      "Bathing Tubs & Seats",
+      "Soaps, Cleansers & Bodywash",
+      "Baby Groomings & Care Kits",
+      "Grooming & Healthcare Kits",
+      "Toothbrushes & Toothpaste",
+      "Shampoo & Conditioners",
+      "Washcloths & Towels",
+      "Baby Bath Mats"
+    ],
+    "Clothing & Accessories": [
+      "New Born Unisex (0 - 6 mnths)",
+      "New born bodysuits",
+      "New born sets & Packs"
+    ],
+    "Toys & Games": [
+      "Action Figures & Collectibles",
+      "Arts & Crafts for Kids",
+      "Blocks & Building toys",
+      "Dolls & Accessories",
+      "Learning & Education",
+      "Puzzle & Boardgames",
+      "Slime & Squishy Toys",
+      "Stuffed Toys",
+      "Pretend Play"
+    ]
+  },
+  "Home & Lifestyle": {
+    "Bath": [
+      "Bath Mats",
+      "Bath Towels",
+      "Bathrobes",
+      "Bathroom Scales",
+      "Bathroom Shelving",
+      "Shower Caddies & Hangers",
+      "Shower Curtains",
+      "Towel Rails & Warmers"
+    ],
+    "Bedding": [
+      "Bed Sheets",
+      "Bedding Accessories",
+      "Blankets & Throws",
+      "Comforters, Quilts & Duvets",
+      "Mattress Protectors",
+      "Pillow Cases",
+      "Pillows & Bolsters"
+    ],
+    "Decor": [
+      " Artificial Flowers & Plants",
+      "Candles & Candleholders",
+      "Clocks",
+      "Curtains",
+      "Cushions & Covers",
+      "Mirrors",
+      "Picture Frames",
+      "Rugs & Carpets",
+      "Vases & Vessels",
+      "Wall Stickers & Decals"
+    ],
+    "Furniture": [
+      "Bedroom",
+      "Gaming Furniture",
+      "Home Office",
+      "Kitchen Furniture",
+      "Living Room"
+    ],
+    "Kitchen & Dining": [
+      "Bakeware",
+      "Coffee & Tea",
+      "Cookware",
+      "Dinnerware",
+      "Drinkware",
+      "Kitchen & Table Linen",
+      "Kitchen Storage & Accessories",
+      "Kitchen Utensils",
+      "Knives & Accessories",
+      "Serveware"
+    ],
+    "Lighting": [
+      "Ceiling Lights",
+      "Floor Lamps",
+      "Lamp Shades",
+      "Light Bulbs",
+      "Lighting Fixtures & Components",
+      "Outdoor Lighting",
+      "Rechargeables & Flashlights",
+      "Table Lamps",
+      "Wall Lights & Sconces"
+    ],
+    "Laundry & Cleaning": [
+      "Brushes, Sponges & Wipers",
+      "Brooms, Mops & Sweepers",
+      "Laundry Baskets & Hampers",
+      "Clothes Line & Drying Racks",
+      "Ironing Boards"
+    ],
+    "Tools, DIY & Outdoor": [
+      "Fixtures & Plumbing",
+      "Electrical",
+      "Hand Tools",
+      "Lawn & Garden",
+      "Power Tools",
+      "Security",
+      "Home Build Up",
+      "Primers",
+      "Paints"
+    ],
+    "Stationery & Craft": [
+      "Art Supplies",
+      "Gifts & Wrapping",
+      "Packaging & Cartons",
+      "Paper Products",
+      "School & Office Equipment",
+      "Writing & Correction",
+      "School Uniforms"
+    ],
+    "Media, Music & Books": [
+      "Books",
+      "English Books",
+      "Islamic Books",
+      "English Literature Books",
+      "English Story Books",
+      "History Books",
+      "eBooks",
+      "Magazines",
+      "Musical Instruments"
+    ],
+    "Charity & Donation": [
+      "Donate to Healthcare",
+      "Donate to Shelter",
+      "Donate to Educate",
+      "Others",
+      "Zakat"
+    ]
+  },
+
+  "Electronic Devices": {
+    "Smart Phones": [
+      "Nokia Mobiles",
+      "Apple iPhones",
+      "Xiaomi Mi Mobiles",
+      "Redmi Mobiles",
+      "Realme Mobiles",
+      "Oppo Mobile Phones",
+      "Oneplus Mobiles",
+      "Infinix Mobiles",
+      "Honor Mobiles",
+      "Tecno Mobiles",
+      "Samsung Mobile Phones",
+      "Vivo Mobiles"
+    ],
+    "Feature Phones": [""],
+    "Tablets": [""],
+    "Landline Phones": [""],
+    "Laptops": ["Gaming Laptops", "Refurbished Laptops", "Traditional Laptops"],
+    "Desktops": ["Gaming Desktops", "All-In-One", "DIY"],
+    "Smart Watches": [""],
+    "Gaming Consoles": [
+      "PlayStation Consoles",
+      "Playstation Games",
+      "Playstation Controllers",
+      "Nintendo Games",
+      "Xbox Games"
+    ],
+    "Cameras & Drones": [
+      "Video Camera",
+      "DSLR",
+      "Drones",
+      "Point & Shoot",
+      "Instant Cameras"
+    ],
+    "Security Cameras": ["IP Security Cameras"],
+    "Insurance & Protection": [
+      "Rs60,000- Rs70,000",
+      "Rs90,000- Rs100,000",
+      "Rs80,000- Rs90,000",
+      "Rs40,000- Rs50,000",
+      "Rs70,000- Rs80,000",
+      "Rs50,000- Rs60,000",
+      "Rs30,000- Rs40,000",
+      "Rs20,000- Rs30,000",
+      "Rs10,000- Rs20,000",
+      "Below Rs10,000"
+    ],
+    "Daraz Like New": ["Like New Phones"]
+  },
+  "Electronic Accessories": {
+    "Mobile Accessories": [
+      "Phone Cases",
+      "Power Banks",
+      "Cables & Converters",
+      "Wall Chargers",
+      "Wireless Chargers",
+      "Tablet Accessories",
+      "Parts & Tools",
+      "Car Chargers",
+      "Screen Protectors",
+      "Phone Camera Flash Lights",
+      "Selfie Sticks",
+      "Docks & Stands"
+    ],
+    "Headphones & Headsets": [
+      "Bluetooth Headsets",
+      "Headphones & Headsets Access",
+      "In-Ear Headphones",
+      "Mono Headsets",
+      "Over-The-Ear Headphones",
+      "Wired Headsets",
+      "Wireless Earbuds"
+    ],
+    "Wearable": [
+      "Smartwatches",
+      "Fitness & Activity Trackers",
+      "Fitness Tracker Accessories",
+      "Virtual Reality"
+    ],
+    "Camera Accessories": [
+      "Memory Cards",
+      "Lenses",
+      "Tripods & Monopods",
+      "Camera Cases, Covers and Bags",
+      "Action Camera Accessories",
+      "Lighting & Studio Equipment",
+      "Batteries",
+      "Gimbals & Stabilizers"
+    ],
+    "Computer Accessories": [
+      "Cooling Pads/Cooling Stands",
+      "Keyboards",
+      "Mice",
+      "Adapters & Cables",
+      "PC Audio",
+      "Gaming Headsets",
+      "Gaming Mice",
+      "Gaming Keyboards",
+      "Mac Accessories"
+    ],
+    "Storage": [
+      "External Hard Drives",
+      "Internal Hard Drives",
+      "Flash Drives",
+      "OTG Drives",
+      "Storage for Mac"
+    ],
+    "Printers": ["Printers", "Ink & Toners", "Fax Machines"],
+    "Computer Components": [
+      "Graphic Cards",
+      "Desktop Casings",
+      "Motherboards",
+      "Fans & Heatsinks",
+      "Processors"
+    ],
+    "Network Components": ["Access Points"],
+    "Portable Speakers": [""]
+  },
+  "TV & Home Appliances": {
+    "LED Televisions": [""],
+    "Smart Televisions": [
+      "OLED Televisions",
+      "Laser Televisions",
+      "4K Televisions",
+      "ULED Televisions"
+    ],
+    "Home Audio": [
+      "Home Entertainment",
+      "Portable Players",
+      "Live Sound & Stage Equipment",
+      "Home Theater Systems"
+    ],
+    "TV Accessories": [
+      "TV Receivers",
+      "Wall Mounts & Protectors",
+      "TV Adapters",
+      "TV Remote Controllers",
+      "3D Glasses",
+      "Antennas",
+      "Cables"
+    ],
+    "Home Audio & Theater": [
+      "Bookshelf Speakers",
+      "Center-Channel Speakers",
+      "Floorstanding Speakers",
+      "Satellite Speakers",
+      "Soundbar Speakers",
+      "Subwoofers"
+    ],
+    "Kitchen Appliances": [
+      "Refrigerators",
+      "Microwave",
+      "Oven",
+      "Freezer",
+      "Cooktop & Range",
+      "Water Generators",
+      "Water Dispensers",
+      "Dishwashers"
+    ],
+    "Small Kitchen Appliances": [
+      "Rice Cooker",
+      "Blender, Mixer & Grinder",
+      "Electric Kettle",
+      "Juicer & Fruit Extraction",
+      "Fryer",
+      "Water Purifier",
+      "Pressure Cookers",
+      "Specialty Cookware"
+    ],
+    "Cooling & Heating": [
+      "Fan",
+      "Air Conditioner",
+      "Air Cooler",
+      "Air Purifier",
+      "Dehumidifier",
+      "Humidifier",
+      "Water Heater"
+    ],
+    "Irons & Garment Care": ["Irons", "Garment Steamer", "Sewing Machine"],
+    "Vacuums & Floor Care": [
+      "Vacuum Cleaner",
+      "Floor Polisher",
+      "Steam Mops",
+      "Electric Brooms"
+    ],
+    "Generator &Portable Power": [
+      "Generators",
+      "UPS",
+      "Solar Inverters & Panels"
+    ],
+    "Washers & Dryers": [
+      "Washing Machine",
+      "Twin Tub Washer & Dryers",
+      "Washers & Dryers"
+    ]
+  },
+  "Sports & Outdoor": {
+    "Exercise & Fitness": [
+      "Cardio Training Equipment",
+      "Strength Training Equipments",
+      "Treadmills",
+      "Fitness Accessories",
+      "Boxing, Martial Arts & MMA",
+      "Weight",
+      "Yoga",
+      "Exercise Bands",
+      "Exercise Bikes"
+    ],
+    "Supplements": [
+      "Proteins",
+      "Post Workouts and recovery",
+      "Pre Workouts",
+      "Fat Burners"
+    ],
+    "Team Sports": [
+      "Cricket",
+      "Football",
+      "Hockey",
+      "Basket Ball",
+      "Volley balls",
+      "Baseballs"
+    ],
+    "Racket Sports": ["Badminton", "Tennis", "Squash"],
+    "Outdoor Recreation": [
+      "Cycling",
+      "Cycle accessories",
+      "Camping / Hiking",
+      "Other activities",
+      "Water Sports",
+      "Fishing",
+      "Skate Boards"
+    ],
+    "Fitness Gadgets": ["Fitness Trackers", "Fitness Trackers Accessories"],
+    "Sports Accessories": ["Water Bottles", "Home Gym"]
+  },
+  "Watches, Bags & Jewellery": {
+    "Men's Watches": [
+      "Chronograph",
+      "Branded Watches",
+      "Analog",
+      "Digital",
+      "Accessories",
+      "Smart Watches"
+    ],
+    "Women's Watches": [
+      "Chronograph",
+      "Branded Watches",
+      "Analog",
+      "Digital",
+      "Accessories",
+      "Smart Watches"
+    ],
+    "Kid's Watches": ["Boys", "Girls"],
+    "Womens Bags": [
+      "Cross Body & Shoulder Bags",
+      "Top-Handle Bags",
+      "Tote Bags",
+      "Backpacks",
+      "Clutches",
+      "Wallets & Accessories",
+      "Wristlets"
+    ],
+    "Mens Bags": [
+      "Wallets & Cardholders",
+      "Backpacks",
+      "Crossbody Bags",
+      "Business Bags",
+      "Messenger Bags",
+      "Cardholders & Keychains"
+    ],
+    "Luggage & Suitcase": [
+      "Travel Accessories",
+      "Laptop Bags",
+      "Luggage",
+      "Duffel Bags"
+    ],
+    "Womens Jewellery": [
+      "Rings",
+      "Earrings",
+      "Necklaces",
+      "Bracelets",
+      "Anklets",
+      "Jewellery Sets"
+    ],
+    "Mens Jewellery": ["Rings", "Chains", "Bracelets", "Studs", "Pendants"],
+    "Mens Accessories": [
+      "Belts",
+      "Hats & Caps",
+      "Scarves",
+      "Socks",
+      "Ties & Bow Ties",
+      "Gloves"
+    ],
+    "Women's Accessories": [
+      "Scarves",
+      "Belts",
+      "Socks & Tights",
+      "Hats & Caps",
+      "Gloves",
+      "Hair Accessories"
+    ],
+    "Sunglasses & Eyewear": [
+      "Men Sunglasses",
+      "Unisex Sunglasses",
+      "Women Eyeglasses",
+      "Unisex Eyeglasses",
+      "Kids Sunglasses",
+      "Women Sunglasses",
+      "Men Eyeglasses",
+      "Kids Eyeglasses",
+      "Lenses"
+    ]
+  },
+  "Automotive & Motorbike": {
+    "Automotive": [
+      "Car Tires & Wheels",
+      "Car Oils & Fluids",
+      "Car Interior Accessories",
+      "Car Tools & Equipment",
+      "Car Parts & Spares",
+      "Car Care",
+      "Car Exterior Accessories",
+      "Car Electronics",
+      "Car Safety & Security"
+    ],
+    "Motorcycle": [
+      "Electric Bikes",
+      "Standard Bikes",
+      "ATVs & UTVs",
+      "Sports Bikes",
+      "Riding Gear",
+      "Motorcycle Helmets",
+      "Motorcycle Tires & Wheels",
+      "Motorcycle Parts & Spares",
+      "Motorcycle Oil & Fluids",
+      "Motorcycle Accessories"
+    ],
+    "Cars": [
+      "Automatic Cars",
+      "Manual Cars",
+      "Imported Cars",
+      "Used Cars",
+      "SUVs"
+    ],
+    "Loaders & Rickshaw": ["Loaders", "Auto Rikshaw"],
+    "Fuel": [""]
+  }
+}
