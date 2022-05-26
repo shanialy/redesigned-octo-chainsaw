@@ -1,0 +1,3877 @@
+{
+  "Groceries & Pets": {
+    "Beverages": {
+      "cat": [
+        "Coffee",
+        "Tea",
+        "Hot Chocolate Drinks",
+        "UHT, Milk & Milk Powder",
+        "Powdered Drink Mixes",
+        "Flavoring Syrups",
+        "Water",
+        "Soft Drinks",
+        "Juices"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/coffee-espresso/?spm=a2a0e.searchlistcategory.cate_1_1.1.121b6378o8AYQb",
+          "title": "Coffee & Espresso Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/tea/?spm=a2a0e.searchlistcategory.cate_1_1.2.121b6378o8AYQb",
+          "title": "Buy Tea | Tea Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/milk-powder-and-milk-modifiers/?spm=a2a0e.searchlistcategory.cate_1_1.3.121b6378o8AYQb",
+          "title": "Buy Milk Powder And Milk Modifiers | Milk Powder And Milk Modifiers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-beverages-uht-milk-milk-powder/?spm=a2a0e.searchlistcategory.cate_1_1.4.121b6378o8AYQb",
+          "title": "Buy Groceries Beverages Uht Milk Milk Powder | Groceries Beverages Uht Milk Milk Powder Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/milk-powder-and-milk-modifiers/?spm=a2a0e.searchlistcategory.cate_1_1.5.121b6378o8AYQb",
+          "title": "Buy Milk Powder And Milk Modifiers | Milk Powder And Milk Modifiers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/syrups/?spm=a2a0e.searchlistcategory.cate_1_1.6.121b6378o8AYQb",
+          "title": "Buy Syrups | Syrups Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-beverages-water/?spm=a2a0e.searchlistcategory.cate_1_1.7.121b6378o8AYQb",
+          "title": "Buy Groceries Beverages Water | Groceries Beverages Water Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-beverages-soft-drinks/?spm=a2a0e.searchlistcategory.cate_1_1.8.121b6378o8AYQb",
+          "title": "Buy Groceries Beverages Soft Drinks | Groceries Beverages Soft Drinks Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-beverages-juices/?spm=a2a0e.searchlistcategory.cate_1_1.9.121b6378o8AYQb",
+          "title": "Buy Groceries Beverages Juices | Groceries Beverages Juices Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Fresh Products": {
+      "cat": ["Fresh Fruit", "Fresh Vegetables", "Bread", "Eggs", "Dry Fruits"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/buy-fresh-fruit/?spm=a2a0e.home.cate_1_2.1.35e34937ZPoyrK",
+          "title": "Fresh Fruits Price List in Pakistan | Fruits for Sale Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/buy-fresh-vegetables/?spm=a2a0e.home.cate_1_2.2.35e34937ZPoyrK",
+          "title": "Fresh Vegetables Price List in Pakistan | Vegetables for Sale Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bread-eggs/?spm=a2a0e.home.cate_1_2.3.35e34937ZPoyrK",
+          "title": "Bread at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/fresh-eggs/?spm=a2a0e.home.cate_1_2.4.35e34937ZPoyrK",
+          "title": "انڈے at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/fresh-dry-fruits/?spm=a2a0e.home.cate_1_2.5.35e34937ZPoyrK",
+          "title": "ڈرائی فروٹ at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Breakfast, Choco & Snacks": {
+      "cat": [
+        "Biscuit",
+        "Breakfast Cereals",
+        "Chocolate",
+        "Nuts",
+        "Oatmeals",
+        "Breakfast Bars",
+        "Snacks",
+        "Instant Breakfast Drinks",
+        "Jams, Honey & Spreads",
+        "Pancake & Waffle Mixes"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/biscuits-cookies/?spm=a2a0e.home.cate_1_3.1.35e34937080jcL",
+          "title": "Biscuits & Cookies Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cereal/?spm=a2a0e.home.cate_1_3.2.35e34937080jcL",
+          "title": "Breakfast Cereal Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/chocolates/?spm=a2a0e.home.cate_1_3.3.35e34937080jcL",
+          "title": "Buy Chocolates in Pakistan | Chocolates Price - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/nuts-2/?spm=a2a0e.home.cate_1_3.4.35e34937080jcL",
+          "title": "Buy Nuts | Nuts Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/oats-porridge/?spm=a2a0e.home.cate_1_3.5.35e34937080jcL",
+          "title": "Oats & Porridge Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/protein-bars/?spm=a2a0e.home.cate_1_3.6.35e34937080jcL",
+          "title": "Buy Protein Bars | Protein Bars Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/snacks/?spm=a2a0e.home.cate_1_3.7.35e34937080jcL",
+          "title": "Snacks Shop Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/instant-breakfast-drinks/?spm=a2a0e.home.cate_1_3.8.35e34937080jcL",
+          "title": "Buy Instant Breakfast Drinks | Instant Breakfast Drinks Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-breakfast-jams-honey-spreads/?spm=a2a0e.home.cate_1_3.9.35e34937080jcL",
+          "title": "Buy Groceries Breakfast Jams Honey Spreads | Groceries Breakfast Jams Honey Spreads Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/pancake-waffle-mixes/?spm=a2a0e.home.cate_1_3.10.35e34937080jcL",
+          "title": "Buy Pancake Waffle Mixes | Pancake Waffle Mixes Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Food Staples": {
+      "cat": [
+        "Canned Food",
+        "Condiment Dressing",
+        "Cooking Ingredients",
+        "Grains, Beans & Pulses",
+        "Home Baking & Sugar",
+        "Instant & Ready-to-Eat",
+        "Jarred Food",
+        "Noodles",
+        "Rice",
+        "Oil"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/groceries-canned-dry-packaged-food-canned-food/?spm=a2a0e.home.cate_1_4.1.35e349378LXUjc",
+          "title": "Buy Groceries Canned Dry Packaged Food Canned Food | Groceries Canned Dry Packaged Food Canned Food Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/condiment-dressing/?spm=a2a0e.home.cate_1_4.2.35e349378LXUjc",
+          "title": "Buy Condiment Dressing | Condiment Dressing Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-baking-cooking-cooking-ingredients/?spm=a2a0e.home.cate_1_4.3.35e349378LXUjc",
+          "title": "Buy Groceries Baking Cooking Cooking Ingredients | Groceries Baking Cooking Cooking Ingredients Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-canned-dry-packaged-food-grains-beans-pulses/?spm=a2a0e.home.cate_1_4.4.35e349378LXUjc",
+          "title": "Buy Groceries Canned Dry Packaged Food Grains Beans Pulses | Groceries Canned Dry Packaged Food Grains Beans Pulses Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-baking-cooking-home-baking-sugar/?spm=a2a0e.home.cate_1_4.5.35e349378LXUjc",
+          "title": "Buy Groceries Baking Cooking Home Baking Sugar | Groceries Baking Cooking Home Baking Sugar Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-canned-dry-packaged-food-instant-ready-to-eat/?spm=a2a0e.home.cate_1_4.6.35e349378LXUjc",
+          "title": "Buy Groceries Canned Dry Packaged Food Instant Ready To Eat | Groceries Canned Dry Packaged Food Instant Ready To Eat Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-canned-dry-packaged-food-jarred-food/?spm=a2a0e.home.cate_1_4.7.35e349378LXUjc",
+          "title": "Buy Groceries Canned Dry Packaged Food Jarred Food | Groceries Canned Dry Packaged Food Jarred Food Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/noodles/?spm=a2a0e.home.cate_1_4.8.35e349378LXUjc",
+          "title": "Noodles Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/rice/?spm=a2a0e.home.cate_1_4.9.35e349378LXUjc",
+          "title": "Rice Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/oil-ghee/?spm=a2a0e.home.cate_1_4.10.35e349378LXUjc",
+          "title": "Cooking Oil Price In Pakistan - Rs. 380 - Daraz.pk"
+        }
+      ]
+    },
+    "Dairy & Chilled": [""],
+    "Laundry & Household": {
+      "cat": [
+        "AirCare",
+        "Cleaning",
+        "Dishwashing",
+        "Laundry",
+        "Pest Control",
+        "Paper"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/groceries-laundry-household-aircare/?spm=a2a0e.home.cate_1_6.1.35e3493707uEvK",
+          "title": "Buy Groceries Laundry Household Aircare | Groceries Laundry Household Aircare Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/household-cleaners/?spm=a2a0e.home.cate_1_6.2.35e3493707uEvK",
+          "title": "Household Cleaning Products Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-laundry-household-dishwashing/?spm=a2a0e.home.cate_1_6.3.35e3493707uEvK",
+          "title": "Buy Groceries Laundry Household Dishwashing | Groceries Laundry Household Dishwashing Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/laundry-products/?spm=a2a0e.home.cate_1_6.4.35e3493707uEvK",
+          "title": "Laundry Products Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-laundry-household-pest-control/?spm=a2a0e.home.cate_1_6.5.35e3493707uEvK",
+          "title": "Buy Groceries Laundry Household Pest Control | Groceries Laundry Household Pest Control Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-laundry-household-paper/?spm=a2a0e.home.cate_1_6.6.35e3493707uEvK",
+          "title": "Buy Groceries Laundry Household Paper | Groceries Laundry Household Paper Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Cat": {
+      "cat": [
+        "Food",
+        "Beds, Mats & Houses",
+        "Carriers & Travel",
+        "Grooming",
+        "Litter & Toilet",
+        "Toys",
+        "Cat Treats",
+        "Trees, Condos & Scratchers",
+        "Bowls & Feeders",
+        "Cages, Crates & Doors"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/cat-food/?spm=a2a0e.home.cate_1_7.1.35e34937mr1Fdt",
+          "title": "Cat Food Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cat-beds-mats-houses/?spm=a2a0e.home.cate_1_7.2.35e34937mr1Fdt",
+          "title": "Buy Cat Beds Mats Houses | Cat Beds Mats Houses Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cat-carriers-travel/?spm=a2a0e.home.cate_1_7.3.35e34937mr1Fdt",
+          "title": "Buy Cat Carriers Travel | Cat Carriers Travel Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cat-grooming-supplies/?spm=a2a0e.home.cate_1_7.4.35e34937mr1Fdt",
+          "title": "Cats Grooming Supplies Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cat-clean-up-toilets/?spm=a2a0e.home.cate_1_7.5.35e34937mr1Fdt",
+          "title": "Buy Cat Clean Up Toilets | Cat Clean Up Toilets Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cats-toys/?spm=a2a0e.home.cate_1_7.6.35e34937mr1Fdt",
+          "title": "Cat Toys Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cat-treats/?spm=a2a0e.home.cate_1_7.7.35e34937mr1Fdt",
+          "title": "Buy Cat Treats | Cat Treats Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cat-condo-tree-scratchers/?spm=a2a0e.home.cate_1_7.8.35e34937mr1Fdt",
+          "title": "Buy Cat Condo Tree Scratchers | Cat Condo Tree Scratchers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cat-bowls-feeders/?spm=a2a0e.home.cate_1_7.9.35e34937mr1Fdt",
+          "title": "Buy Cat Bowls Feeders | Cat Bowls Feeders Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cat-cages-crates-doors/?spm=a2a0e.home.cate_1_7.10.35e34937mr1Fdt",
+          "title": "Buy Cat Cages Crates Doors | Cat Cages Crates Doors Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Dog": {
+      "cat": [
+        "Food",
+        "Beds, Mats & Houses",
+        "Carriers & Travel",
+        "Grooming",
+        "Leashes, Collars & Muzzles",
+        "Toys",
+        "Treats",
+        "Fleas & Ticks",
+        "Bowls & Feeders",
+        "Cages, Crates & Doors"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/dog-food/?spm=a2a0e.home.cate_1_8.1.35e34937YT1htp",
+          "title": "Dog Food Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/dog-beds-mats-houses/?spm=a2a0e.home.cate_1_8.2.35e34937YT1htp",
+          "title": "Buy Dog Beds Mats Houses | Dog Beds Mats Houses Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/dog-carriers-travel/?spm=a2a0e.home.cate_1_8.3.35e34937YT1htp",
+          "title": "Buy Dog Carriers Travel | Dog Carriers Travel Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/dog-grooming-supplies/?spm=a2a0e.home.cate_1_8.4.35e34937YT1htp",
+          "title": "Buy Dog Grooming Supplies | Dog Grooming Supplies Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/dog-leashes-collars-muzzles/?spm=a2a0e.home.cate_1_8.5.35e34937YT1htp",
+          "title": "Buy Dog Leashes Collars Muzzles | Dog Leashes Collars Muzzles Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/toys/?spm=a2a0e.home.cate_1_8.6.35e34937YT1htp",
+          "title": "Dog Toys Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/dog-treats/?spm=a2a0e.home.cate_1_8.7.35e34937YT1htp",
+          "title": "Buy Dog Treats | Dog Treats Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/dog-flea-tick/?spm=a2a0e.home.cate_1_8.8.35e34937YT1htp",
+          "title": "Buy Dog Flea Tick | Dog Flea Tick Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/dog-bowls-feeders/?spm=a2a0e.home.cate_1_8.9.35e34937YT1htp",
+          "title": "Buy Dog Bowls Feeders | Dog Bowls Feeders Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/dog-cages-pens-doors/?spm=a2a0e.home.cate_1_8.10.35e34937YT1htp",
+          "title": "https://www.daraz.pk/dog-cages-pens-doors/?spm=a2a0e.home.cate_1_8.10.35e34937YT1htp"
+        }
+      ]
+    },
+    "Fish": {
+      "cat": [
+        "Aquarium Temp Control",
+        "Food",
+        "Aquariums",
+        "Aquarium Cleaning Tools",
+        "Aquarium Filters",
+        "Aquarium Lighting",
+        "Aquarium Water Pumps",
+        "Aquarium Decorations",
+        "Starter Kits",
+        "Aquarium Air Pumps"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/aquariums-accessories-temperature-control-supplies/?spm=a2a0e.home.cate_1_9.1.35e34937WOCVfm",
+          "title": "درجہ حرارت کنٹرول کی سپلائز at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/fish-food/?spm=a2a0e.home.cate_1_9.2.35e34937WOCVfm",
+          "title": "Buy Fish Food in Pakistan | Fish Food Price - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/aquariums/?spm=a2a0e.home.cate_1_9.3.35e34937WOCVfm",
+          "title": "ایکویریم at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/aquariums-accessories-cleaning-tools/?spm=a2a0e.home.cate_1_9.4.35e34937WOCVfm",
+          "title": "Cleaning tools at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/aquariums-accessories-filters/?spm=a2a0e.home.cate_1_9.5.35e34937WOCVfm",
+          "title": "فلٹرز اور ایکسیسیریز at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/aquariums-accessories-lightings/?spm=a2a0e.home.cate_1_9.6.35e34937WOCVfm",
+          "title": "لائٹنگز at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/aquariums-accessories-water-pumps/?spm=a2a0e.home.cate_1_9.7.35e34937WOCVfm",
+          "title": "Buy Aquariums Water Pump And Accessories Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/aquariums-decorations/?spm=a2a0e.home.cate_1_9.8.35e34937WOCVfm",
+          "title": "سجاوٹ at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/aquariums-starter-kits/?spm=a2a0e.home.cate_1_9.9.35e34937WOCVfm",
+          "title": "Starter Kits at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/aquariums-accessories-water-pumps/?spm=a2a0e.home.cate_1_9.10.35e34937WOCVfm",
+          "title": "Buy Aquariums Water Pump And Accessories Online - Daraz.pk"
+        }
+      ]
+    },
+    "Frozen Food": {
+      "cat": ["Chicken", "Beef", "Other Frozen Food"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/groceries-frozen-meat-chicken/?spm=a2a0e.home.cate_1_10.1.35e34937Ii2MAi",
+          "title": "چکن at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/groceries-frozen-meat-beef/?spm=a2a0e.home.cate_1_10.2.35e34937Ii2MAi",
+          "title": "گائے کا گوشت at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/other-frozen-food/?spm=a2a0e.home.cate_1_10.3.35e34937Ii2MAi",
+          "title": "دیگر فروزن کھانا at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    }
+  },
+  "Health & Beauty": {
+    "Bath & Body": {
+      "cat": [
+        "Body & Massage Oils",
+        "Body Soaps & Shower Gels",
+        "Foot Care",
+        "Hair Removal",
+        "Hand Care",
+        "Body Moisturizers",
+        "Breast Care",
+        "Talcum Powder",
+        "Bath & Body Accessories"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/body-oils/?spm=a2a0e.home.cate_2_1.1.35e34937RxHhY5",
+          "title": "Women's Body Oils Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/soaps-wash/?spm=a2a0e.home.cate_2_1.2.35e34937RxHhY5",
+          "title": "Buy Soaps Wash | Soaps Wash Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/foot-care/?spm=a2a0e.home.cate_2_1.3.35e34937RxHhY5",
+          "title": "Buy Foot Care in Pakistan | Foot Care Price - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hair-removal-tools/?spm=a2a0e.home.cate_2_1.4.35e34937RxHhY5",
+          "title": "Buy Hair Removal Tools | Hair Removal Tools Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hand-care/?spm=a2a0e.home.cate_2_1.5.35e34937RxHhY5",
+          "title": "Buy Hand Care | Hand Care Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/body-lotion-butter/?spm=a2a0e.home.cate_2_1.6.35e34937RxHhY5",
+          "title": "Buy Body Lotion Butter | Body Lotion Butter Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/breast-care/?spm=a2a0e.home.cate_2_1.7.35e34937RxHhY5",
+          "title": "Buy Breast Care | Breast Care Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womans-hygiene-talcum-powder/?spm=a2a0e.home.cate_2_1.8.35e34937RxHhY5",
+          "title": "Buy Womans Hygiene Talcum Powder | Womans Hygiene Talcum Powder Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bath-body-accessories/?spm=a2a0e.home.cate_2_1.9.35e34937RxHhY5",
+          "title": "Buy Bath Body Accessories | Bath Body Accessories Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Beauty Tools": {
+      "cat": [
+        "Curling Irons & Wands",
+        "Flat Irons",
+        "Multi-stylers",
+        "Hair Dryers",
+        "Hair Removal Appliances",
+        "Skin Care Tools",
+        "Slimming & Electric Massagers"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/hair-curlers/?spm=a2a0e.home.cate_2_2.1.35e34937V1TPda",
+          "title": "Hair Curlers Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hair-straighteners/?spm=a2a0e.home.cate_2_2.2.35e34937V1TPda",
+          "title": "Hair Straighteners Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/styling-hair-stylers/?spm=a2a0e.home.cate_2_2.3.35e34937V1TPda",
+          "title": "متعدد اسٹائلرز at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hair-dryers/?spm=a2a0e.home.cate_2_2.4.35e34937V1TPda",
+          "title": "Hair Dryers Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hair-removal-appliances/?spm=a2a0e.home.cate_2_2.5.35e34937V1TPda",
+          "title": "Buy Hair Removal Appliances | Hair Removal Appliances Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hb-skin-care-tools/?spm=a2a0e.home.cate_2_2.6.35e34937V1TPda",
+          "title": "Buy Hb Skin Care Tools | Hb Skin Care Tools Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/massage-relaxation/?spm=a2a0e.home.cate_2_2.7.35e34937V1TPda",
+          "title": "Buy Massage Relaxation | Massage Relaxation Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Fragrances": {
+      "cat": ["Women Fragrances", "Men Fragrances", "Unisex"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/womens-fragrance/?spm=a2a0e.home.cate_2_3.1.35e3493709kP7q",
+          "title": "Women Fragrances Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-fragrance/?spm=a2a0e.home.cate_2_3.2.35e3493709kP7q",
+          "title": "Mens Fragrance Price In Pakistan - Rs. 1249 On 0% Installment"
+        },
+        {
+          "url": "https://www.daraz.pk/unisex-fragrance/?spm=a2a0e.home.cate_2_3.3.35e3493709kP7q",
+          "title": "Buy Unisex Fragrance | Unisex Fragrance Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Hair Care": {
+      "cat": [
+        "Shampoo",
+        "Hair Treatments",
+        "Hair Accessories",
+        "Hair Care Accessories",
+        "Hair Brushes & Combs",
+        "Hair Coloring",
+        "Hair Conditioner",
+        "Hair Styling",
+        "Wig & Hair Extensions & Pads"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/hair-shampoo/?spm=a2a0e.searchlistcategory.cate_2_4.1.7b4347132HmRcr",
+          "title": "Shampoo Pakistan: Shampoo Official Store at Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/treatments/?spm=a2a0e.searchlistcategory.cate_2_4.2.7b4347132HmRcr",
+          "title": "Buy Treatments | Treatments Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/women-hair-accessories/?spm=a2a0e.searchlistcategory.cate_2_4.3.7b4347132HmRcr",
+          "title": "Hair Accessories at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hair-care-accessories/?spm=a2a0e.searchlistcategory.cate_2_4.4.7b4347132HmRcr",
+          "title": "Buy Hair Care Accessories | Hair Care Accessories Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hair-care-brushes-combs/?spm=a2a0e.searchlistcategory.cate_2_4.5.7b4347132HmRcr",
+          "title": "بالوں کا برش اور کنگھی at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hair-color/?spm=a2a0e.searchlistcategory.cate_2_4.6.7b4347132HmRcr",
+          "title": "Hair Colors Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hair-conditioner/?spm=a2a0e.searchlistcategory.cate_2_4.7.7b4347132HmRcr",
+          "title": "Buy Hair Conditioner | Hair Conditioner Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hair-styling/?spm=a2a0e.searchlistcategory.cate_2_4.8.7b4347132HmRcr",
+          "title": "Buy Hair Styling | Hair Styling Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-hair-extensions/?spm=a2a0e.searchlistcategory.cate_2_4.9.7b4347132HmRcr",
+          "title": "Women's Hair Extensions Online - Daraz Pakistan"
+        }
+      ]
+    },
+    "Makeup": {
+      "cat": [
+        "Foundation",
+        "Lips",
+        "Eyes",
+        "Nails",
+        "Brushes & Sets",
+        "Makeup Accessories",
+        "Makeup Removers",
+        "Body",
+        "Makeup Palettes & Sets"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/womens-foundation/?spm=a2a0e.home.cate_2_5.1.35e34937E7NlM8",
+          "title": "Face Foundation Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/lips/?spm=a2a0e.home.cate_2_5.2.35e34937E7NlM8",
+          "title": "Buy Lipsticks for Women & Girls At Best Prices in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/eye-makeup/?spm=a2a0e.home.cate_2_5.3.35e34937E7NlM8",
+          "title": "Buy Eye Makeup for Women & Girls At Best Prices in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/nails-makeup/?spm=a2a0e.home.cate_2_5.4.35e34937E7NlM8",
+          "title": "Buy Nail Polish & Nail Art Kit Online At Best Prices in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/tools-brushes/?spm=a2a0e.home.cate_2_5.5.35e34937E7NlM8",
+          "title": "Makeup Tools & Brushes Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/makeup-accessories/?spm=a2a0e.home.cate_2_5.6.35e34937E7NlM8",
+          "title": "Womens Makeup Accessories Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-make-up-remover/?spm=a2a0e.home.cate_2_5.7.35e34937E7NlM8",
+          "title": "Best Makeup Remover Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/body/?spm=a2a0e.home.cate_2_5.8.35e34937E7NlM8",
+          "title": "Buy Body | Body Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/makeup-kits-palettes/?spm=a2a0e.home.cate_2_5.9.35e34937E7NlM8",
+          "title": "Buy Makeup Kits Palettes | Makeup Kits Palettes Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Men's Care": {
+      "cat": [
+        "Bath & Body",
+        "Hair Care",
+        "Hair Dryers",
+        "Shaving & Grooming",
+        "Sports Nutrition"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/bath-body/?spm=a2a0e.home.cate_2_6.1.35e34937oGNcuE",
+          "title": "Bath & Body Care Products Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hair-care/?spm=a2a0e.home.cate_2_6.2.35e34937oGNcuE",
+          "title": "Hair Care Pakistan: Hair Care Official Store at Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hair-dryers/?spm=a2a0e.home.cate_2_6.3.35e34937oGNcuE",
+          "title": "Hair Dryers Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-shaving-grooming/?spm=a2a0e.home.cate_2_6.4.35e34937oGNcuE",
+          "title": "Shaving Machine Price In Pakistan - Rs. 99 - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/shop/sports-nutrition/?spm=a2a0e.home.cate_2_6.5.35e34937oGNcuE",
+          "title": "Sports Nutrition Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Personal Care": {
+      "cat": [
+        "Oral Care",
+        "Adult Diapers & Incontinence",
+        "Deodorants",
+        "Feminine Wash"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/oral-care-products/?spm=a2a0e.home.cate_2_7.1.35e34937UGGSLm",
+          "title": "Buy Oral Care Products | Oral Care Products Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/adult-diapers-incontinence/?spm=a2a0e.home.cate_2_7.2.35e34937UGGSLm",
+          "title": "Buy Adult Diapers Incontinence | Adult Diapers Incontinence Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/deodorants/?spm=a2a0e.home.cate_2_7.3.35e34937UGGSLm",
+          "title": "Buy Deodorants | Deodorants Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/feminine-cleansing/?spm=a2a0e.home.cate_2_7.4.35e34937UGGSLm",
+          "title": "فیمنین واش at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Skin Care": {
+      "cat": [
+        "Serum & Essence",
+        "Dermacare",
+        "Face Scrubs & Exfoliators",
+        "Facial Cleansers",
+        "Sunscreen & Aftersun",
+        "Eye Care",
+        "Face Mask & Packs",
+        "Moisturizers and Cream",
+        "Toner & Mists"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/serums-creams/?spm=a2a0e.searchlistcategory.cate_2_8.1.1166bbdaKQJBIH",
+          "title": "Buy Acne Blemish Treatments & Serums Creams in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/dermacare/?spm=a2a0e.searchlistcategory.cate_2_8.2.1166bbdaKQJBIH",
+          "title": "Buy Dermacare | Dermacare Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-face/?spm=a2a0e.searchlistcategory.cate_2_8.3.1166bbdaKQJBIH",
+          "title": "Face Scrubs & Exfoliators at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/face-wash/?spm=a2a0e.searchlistcategory.cate_2_8.4.1166bbdaKQJBIH",
+          "title": "Buy Face Wash | Face Wash Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-sun-care/?spm=a2a0e.searchlistcategory.cate_2_8.5.1166bbdaKQJBIH",
+          "title": "سن اسکرین اور آفٹر سن at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/eye-creams/?spm=a2a0e.searchlistcategory.cate_2_8.6.1166bbdaKQJBIH",
+          "title": "Women's Eye Creams Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/facial-masks-peels/?spm=a2a0e.searchlistcategory.cate_2_8.7.1166bbdaKQJBIH",
+          "title": "Face Mask & Packs - Face Mask & Packs Price List In Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/moisturizers-creams/?spm=a2a0e.searchlistcategory.cate_2_8.8.1166bbdaKQJBIH",
+          "title": "Moisturizers and Cream at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/toners/?spm=a2a0e.searchlistcategory.cate_2_8.9.1166bbdaKQJBIH",
+          "title": "Buy Toners | Toners Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Sexual Wellness": {
+      "cat": ["Condoms", "Lubricants"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/shop-condoms/?spm=a2a0e.searchlistcategory.cate_2_9.1.255e7fa1hhWuBm",
+          "title": "Shop Condoms Products Price List in Pakistan | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/lubricants-sexual-health/?spm=a2a0e.searchlistcategory.cate_2_9.2.255e7fa1hhWuBm",
+          "title": "Buy Delay Spray - Sex Lubricant Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Medical Supplies": {
+      "cat": [
+        "Surgical Masks",
+        "Health Accessories",
+        "Blood Pressure Monitors",
+        "Nebulizer & Aspirators",
+        "Thermometers",
+        "Blood Glucose Monitors",
+        "First Aid Supplies",
+        "Injury Support and Braces",
+        "Ointments and Creams",
+        "Pulse Oximeters",
+        "Scale & Body Fat Analyzers"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/surgical-masks/?spm=a2a0e.searchlistcategory.cate_2_10.1.2f95671equ0v38",
+          "title": "Buy Surgical Masks in Pakistan | Surgical Masks Price List - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/health-aid-supplies/?spm=a2a0e.searchlistcategory.cate_2_10.2.2f95671equ0v38",
+          "title": "Buy Medical & Health Aid Supplies Online Store in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/body-monitors/?spm=a2a0e.searchlistcategory.cate_2_10.3.2f95671equ0v38",
+          "title": "Buy Body & Health Monitors Online Store in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/nebulizers/?spm=a2a0e.searchlistcategory.cate_2_10.4.2f95671equ0v38",
+          "title": "Nebulizer Price In Pakistan - Rs. 2750 On 0% Installment"
+        },
+        {
+          "url": "https://www.daraz.pk/health-beauty-thermometers/?spm=a2a0e.searchlistcategory.cate_2_10.5.2f95671equ0v38",
+          "title": "Thermometers at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/blood-glucose-monitor/?spm=a2a0e.searchlistcategory.cate_2_10.6.2f95671equ0v38",
+          "title": "بلڈ گلوکوز مانیٹر at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/first-aid-supplies/?spm=a2a0e.searchlistcategory.cate_2_10.7.2f95671equ0v38",
+          "title": "Buy First Aid Kit Supplies Online Store in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/injury-support-braces/?spm=a2a0e.searchlistcategory.cate_2_10.8.2f95671equ0v38",
+          "title": "Buy Injury Support & Braces Online Store in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/ointments-creams/?spm=a2a0e.searchlistcategory.cate_2_10.9.2f95671equ0v38",
+          "title": "Buy Ointments Creams | Ointments Creams Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/pulse-oximeters/?spm=a2a0e.searchlistcategory.cate_2_10.10.2f95671equ0v38",
+          "title": "Oximeter Pakistan | Pulse Oximeter Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/scale-body-fat-analyzers/?spm=a2a0e.searchlistcategory.cate_2_10.11.2f95671equ0v38",
+          "title": "Buy Scale Body Fat Analyzers | Scale Body Fat Analyzers Price Online - Daraz.pk"
+        }
+      ]
+    }
+  },
+  "Women's Fashion": {
+    "Unstitched Fabric": {
+      "cat": ["Branded Unstitched", "Sarees"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/womens-lawn/?spm=a2a0e.searchlistcategory.cate_3_1.1.a8be1837WXEOzb&service=OS",
+          "title": "Spring Summer Lawn Collection 2022 Sale: Pakistani Lawn Dresses & Suits with Prices - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-sarees/?spm=a2a0e.searchlistcategory.cate_3_1.2.a8be1837WXEOzb",
+          "title": "Buy Branded Ladies Sarees @ Best Price in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Kurtas & Shalwar Kameez": {
+      "cat": [
+        "Kurtis",
+        "Shalwar Kameez",
+        "Branded Pret",
+        "Trousers & Palazzos"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/womens-kurtis/?spm=a2a0e.searchlistcategory.cate_3_2.1.7c504996KhhkjY",
+          "title": "Buy Women Kurtis Online in Pakistan | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-shalwar-kameez/?spm=a2a0e.searchlistcategory.cate_3_2.2.7c504996KhhkjY",
+          "title": "Ladies Suits Online - Pakistani Women Clothes Shop - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-kurtas-shalwar-kameez/?spm=a2a0e.searchlistcategory.cate_3_2.3.7c504996KhhkjY&service=OS",
+          "title": "Buy Women Kurta & Shalwar Kameez Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/palazzos-capris/?spm=a2a0e.searchlistcategory.cate_3_2.4.7c504996KhhkjY",
+          "title": "Pants, Palazzos & Capris at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Muslim Wear": {
+      "cat": [
+        "Abayas & Hijabs",
+        "Dupattas, Stoles & Shawls",
+        "Scarves",
+        "Hair Accessories"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/womens-hijabs/?spm=a2a0e.searchlistcategory.cate_3_3.1.6a7eb5ebabkiWZ",
+          "title": "Women's Abayas & Hijab 2019 Collection Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-dupattas-stoles-shawls/?spm=a2a0e.searchlistcategory.cate_3_3.2.6a7eb5ebabkiWZ",
+          "title": "Dupattas, Stoles & Shawls For Womens Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-scarves-mufflers/?spm=a2a0e.searchlistcategory.cate_3_3.3.6a7eb5ebabkiWZ",
+          "title": "Buy Women Scarves & Shawls @ Best Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/women-hair-accessories/?spm=a2a0e.searchlistcategory.cate_3_3.4.6a7eb5ebabkiWZ",
+          "title": "Hair Accessories at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Tops": {
+      "cat": ["Blouses & Shirts", "Tunics", "T-Shirts"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/womens-shirts/?spm=a2a0e.searchlistcategory.cate_3_4.1.3e1e2151lJjywh",
+          "title": "Buy Womens Shirts in Pakistan | Womens Shirts Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/tops-tunics/?spm=a2a0e.searchlistcategory.cate_3_4.2.3e1e2151lJjywh",
+          "title": "ٹیونک at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-t-shirts/?spm=a2a0e.searchlistcategory.cate_3_4.3.3e1e2151lJjywh",
+          "title": "Buy Women T-Shirts Online @ Best Price in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Bras, Panties & Lingerie": {
+      "cat": [
+        "Bras",
+        "Panties",
+        "Lingerie Sets",
+        "Beachwear and Bikinis",
+        "Socks & Tights"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/womens-bras/?spm=a2a0e.searchlistcategory.cate_3_5.1.badf67a894STGN",
+          "title": "Bras Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-panties/?spm=a2a0e.searchlistcategory.cate_3_5.2.badf67a894STGN",
+          "title": "Women's Underwear Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-lingerie/?spm=a2a0e.searchlistcategory.cate_3_5.3.badf67a894STGN",
+          "title": "Lingerie Pakistan Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/swimwear-beachwear/?spm=a2a0e.searchlistcategory.cate_3_5.4.badf67a894STGN",
+          "title": "Swimwear & Beachwear Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-socks-stockings/?spm=a2a0e.searchlistcategory.cate_3_5.5.badf67a894STGN",
+          "title": "Women's Socks & Stockings Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Sleepwear & Innerwear": {
+      "cat": [
+        "Nightwear",
+        "Robe and Gown sets",
+        "Tanks & Camisoles",
+        "Shapewear"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/fashion-nightwear/?spm=a2a0e.searchlistcategory.cate_3_6.1.562262fblQ6dpq",
+          "title": "نائٹ ویئر at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/women-robes/?spm=a2a0e.searchlistcategory.cate_3_6.2.562262fblQ6dpq",
+          "title": "Robes at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-tops-vests-camisoles/?spm=a2a0e.searchlistcategory.cate_3_6.3.562262fblQ6dpq",
+          "title": "Women's Tops, Vests & Camisoles Online - Daraz Pakistan"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-shapewear/?spm=a2a0e.searchlistcategory.cate_3_6.4.562262fblQ6dpq",
+          "title": "Body Shaper Price In Pakistan - Rs. 166 - Daraz.pk"
+        }
+      ]
+    },
+    "Pants, Jeans & Leggings": {
+      "cat": ["Pants", "Leggings", "Jeans", "Shorts", "Jeggings"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/women-pants/?spm=a2a0e.searchlistcategory.cate_3_7.1.2697522b3QMiXY",
+          "title": "Pants at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-tights-leggings/?spm=a2a0e.searchlistcategory.cate_3_7.2.2697522b3QMiXY",
+          "title": "Buy Womens Tights Leggings in Pakistan | Womens Tights Leggings Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-jeans/?spm=a2a0e.searchlistcategory.cate_3_7.3.2697522b3QMiXY",
+          "title": "Women's Jeans Online in Pakistan | Daraz.Pk"
+        },
+        {
+          "url": "https://www.daraz.pk/clothing-shorts/?spm=a2a0e.searchlistcategory.cate_3_7.4.2697522b3QMiXY",
+          "title": "شارٹس Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-jeggings/?spm=a2a0e.searchlistcategory.cate_3_7.5.2697522b3QMiXY",
+          "title": "جیگنگز at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Dresses & Skirts": {
+      "cat": ["Ethnic Dresses", "Western Dresses", "Skirts", "Formal Wear"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/womens-dresses/?spm=a2a0e.searchlistcategory.cate_3_8.1.bf182e67ZrMCFH&location=-178&page=5",
+          "title": "Buy Women Dresses & Suits @ Best Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-dresses/?spm=a2a0e.searchlistcategory.cate_3_8.2.bf182e67ZrMCFH&location=-49",
+          "title": "Buy Women Dresses & Suits @ Best Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-skirts/?spm=a2a0e.searchlistcategory.cate_3_8.3.bf182e67ZrMCFH",
+          "title": "Buy Branded Women Dresses & Skirts @ Best Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-formal-wear/?spm=a2a0e.searchlistcategory.cate_3_8.4.bf182e67ZrMCFH",
+          "title": "Women Formal Wear Online in Pakistan | Daraz.pk"
+        }
+      ]
+    },
+    "Winter Clothing": {
+      "cat": [
+        "Jackets & Coats",
+        "Hoodies & Sweatshirts",
+        "Sweaters & Cardigans",
+        "Shawls and Poncho's",
+        "Shrugs"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/women-jackets-coats/?spm=a2a0e.searchlistcategory.cate_3_9.1.343c6f80R0u83D",
+          "title": "Buy Women Jackets Coats in Pakistan | Women Jackets Coats Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-hoodies-sweatshirts/?spm=a2a0e.searchlistcategory.cate_3_9.2.343c6f80R0u83D",
+          "title": "Hoodies & Sweatshirts at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-sweaters/?spm=a2a0e.searchlistcategory.cate_3_9.3.343c6f80R0u83D",
+          "title": "Womens Sweaters Price In Pakistan - Rs. 499"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-dupattas-stoles-shawls/?spm=a2a0e.searchlistcategory.cate_3_9.4.343c6f80R0u83D",
+          "title": "Dupattas, Stoles & Shawls For Womens Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/shrugs/?spm=a2a0e.searchlistcategory.cate_3_9.5.343c6f80R0u83D",
+          "title": "شرگ at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Shoes": {
+      "cat": [
+        "Sandals",
+        "Flat Shoes",
+        "Heels",
+        "Khussa & Kohlapuri",
+        "Slides & Flip FLops",
+        "Wedges",
+        "Sneakers",
+        "Boots",
+        "Shoes Accessories"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/womens-flats-sandals/?spm=a2a0e.searchlistcategory.cate_3_10.1.133d65226S7Y2F",
+          "title": "Women's Flats: Ladies Flat Shoes Online in Pakistan | Daraz.Pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-flat-shoes/?spm=a2a0e.searchlistcategory.cate_3_10.2.133d65226S7Y2F",
+          "title": "Flat Shoes Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-heels/?spm=a2a0e.searchlistcategory.cate_3_10.3.133d65226S7Y2F",
+          "title": "Heels Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-kohlapuri/?spm=a2a0e.searchlistcategory.cate_3_10.4.133d65226S7Y2F",
+          "title": "کھسہ اور کوہلہ پوری at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-slippers-flip-flops/?spm=a2a0e.searchlistcategory.cate_3_10.5.133d65226S7Y2F",
+          "title": "Women's Slipper & Flip Flops Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-wedges/?spm=a2a0e.searchlistcategory.cate_3_10.6.133d65226S7Y2F",
+          "title": "Wedges Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-sneakers/?spm=a2a0e.searchlistcategory.cate_3_10.7.133d65226S7Y2F",
+          "title": "Sneakers at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-boots/?spm=a2a0e.searchlistcategory.cate_3_10.8.133d65226S7Y2F",
+          "title": "جوتے Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-shoes-accessories/?spm=a2a0e.searchlistcategory.cate_3_10.9.133d65226S7Y2F",
+          "title": "Shoes Accessories at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Girls Clothing": {
+      "cat": [
+        "Dresses",
+        "Tops",
+        "Underwear & Sleepwear",
+        "Bottoms",
+        "Socks & Tights",
+        "Jackets & Coats",
+        "Swimsuits",
+        "Hoodies",
+        "Hair Accessories",
+        "Hats & Caps",
+        "Belts",
+        "Gloves, Scarves & Cold Weather"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/girls-jumpsuits-rompers/?spm=a2a0e.searchlistcategory.cate_3_11.1.4deb33f3EMzdNH",
+          "title": "Buy Girls Cute Jumpsuits & Rompers Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/girls-clothing-tops/?spm=a2a0e.searchlistcategory.cate_3_11.2.4deb33f3EMzdNH",
+          "title": "Tops at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/girls-undergarments/?spm=a2a0e.searchlistcategory.cate_3_11.3.4deb33f3EMzdNH",
+          "title": "Buy Girls Undergarments Online Store in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/girls-clothing-bottoms/?spm=a2a0e.searchlistcategory.cate_3_11.4.4deb33f3EMzdNH",
+          "title": "Bottoms at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/girls-socks/?spm=a2a0e.searchlistcategory.cate_3_11.5.4deb33f3EMzdNH",
+          "title": "Buy Girls Fancy Short & Long Socks Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/jackets-coats/?spm=a2a0e.searchlistcategory.cate_3_11.6.4deb33f3EMzdNH",
+          "title": "Jackets & Coats at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/girls-swimsuits/?spm=a2a0e.searchlistcategory.cate_3_11.7.4deb33f3EMzdNH",
+          "title": "تیراکی کا لباس at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/girls-hoodies-2/?spm=a2a0e.searchlistcategory.cate_3_11.8.4deb33f3EMzdNH",
+          "title": "Hoodies at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/girls-hair-accessories/?spm=a2a0e.searchlistcategory.cate_3_11.9.4deb33f3EMzdNH",
+          "title": "Buy Stylish Girls Hair Accessories Set Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/girls-hats-scarves/?spm=a2a0e.searchlistcategory.cate_3_11.10.4deb33f3EMzdNH",
+          "title": "Buy Girls Stylish Hats & Scarves @ Best Prices in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/fashion-girls-accessories-belts/?spm=a2a0e.searchlistcategory.cate_3_11.11.4deb33f3EMzdNH",
+          "title": "بیلٹ at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/gloves-scarves-cold-weather/?spm=a2a0e.searchlistcategory.cate_3_11.12.4deb33f3EMzdNH",
+          "title": "Gloves, Scarves & Cold Weather at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Girls Shoes": { "cat": [""], "urls": [""] }
+  },
+  "Men's Fashion": {
+    "T-Shirts & Tanks": {
+      "cat": ["V Neck", "Round Neck", "Graphic tees", "Top Rated"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/mens-t-shirts/?spm=a2a0e.searchlistcategory.cate_4_1.1.6f404af8S488TS&from=input&q=t+shirts+v+neck",
+          "title": "Mens T Shirts Price In Pakistan - Rs. 260 On 0% Installment"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-t-shirts/?spm=a2a0e.searchlistcategory.cate_4_1.2.6f404af8S488TS&q=t+shirts+round+neck&from=input",
+          "title": "Mens T Shirts Price In Pakistan - Rs. 260 On 0% Installment"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-t-shirts/?spm=a2a0e.searchlistcategory.cate_4_1.3.6f404af8S488TS&q=t+shirts+graphic&from=input",
+          "title": "Mens T Shirts Price In Pakistan - Rs. 260 On 0% Installment"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-t-shirts/?spm=a2a0e.searchlistcategory.cate_4_1.4.6f404af8S488TS&from=input&q=t%20shirts&rating=4",
+          "title": "Mens T Shirts Price In Pakistan - Rs. 260 On 0% Installment"
+        }
+      ]
+    },
+    "Shirts & Polo": {
+      "cat": ["Casual Shirts", "Formal Shirts", "Polos"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/mens-casual-shirts/?spm=a2a0e.searchlist.cate_4_2.1.6b9e6378GRbACz",
+          "title": "Buy Mens Casual Shirts in Pakistan | Mens Casual Shirts Price List - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-formal-shirts/?spm=a2a0e.searchlist.cate_4_2.2.6b9e6378GRbACz",
+          "title": "Men's Formal Shirts| Buy Formal Dress Shirt Online - Daraz Pakistan"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-polo-shirts/?spm=a2a0e.searchlist.cate_4_2.3.6b9e6378GRbACz",
+          "title": "Mens Polo Shirts Price In Pakistan - Rs. 349 On 0% Installment"
+        }
+      ]
+    },
+    "Pants & Jeans": {
+      "cat": ["Chinos", "Cargo", "Jeans"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/mens-khakis-chinos/?spm=a2a0e.searchlistcategory.cate_4_3.1.793e7493Tnv8ew",
+          "title": "Men's Khakis & Chinos: Buy Men's Chinos & Khaki Pants Online in Pakistan | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-lounge-pants/?spm=a2a0e.searchlistcategory.cate_4_3.2.793e7493Tnv8ew",
+          "title": "Buy Men's Lounge & Sweat Pants @ Best Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-jeans/?spm=a2a0e.searchlistcategory.cate_4_3.3.793e7493Tnv8ew",
+          "title": "Mens Jeans Price In Pakistan - Rs. 700 On 0% Installment"
+        }
+      ]
+    },
+    "Shorts, Joggers & Sweats": {
+      "cat": ["Shorts", "Joggers & Sweats"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/mens-shorts/?spm=a2a0e.searchlistcategory.cate_4_4.1.73b93ff3svCqWN",
+          "title": "Buy Men's Shorts - Online in Pakistan | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-sweat-pants/?spm=a2a0e.searchlistcategory.cate_4_4.2.73b93ff3svCqWN",
+          "title": "جوگرز اور سویٹس at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Kurtas & Shalwar Kameez": {
+      "cat": ["Unstitched Fabric", "Kurtas", "Shalwar", "Shawls"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/mens-unstitched-fabric/?spm=a2a0e.home.cate_4_5.1.35e34937rvt2A1",
+          "title": "Men's Unstitched Fabric, Online Gents Cotton, Wool, Khaddar Shalwar Kameez Suits | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-kurtas/?spm=a2a0e.home.cate_4_5.2.35e34937rvt2A1",
+          "title": "Mens Kurtas Price In Pakistan - Rs. 599 On 0% Installment"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-lungi/?spm=a2a0e.home.cate_4_5.3.35e34937rvt2A1",
+          "title": "شلوار at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-shawls/?spm=a2a0e.home.cate_4_5.4.35e34937rvt2A1",
+          "title": "Men's Shawls Online | Casual Wool & Cotton Shawls - Daraz Pakistan"
+        }
+      ]
+    },
+    "Winter Clothing": {
+      "cat": [
+        "Jackets & Coats",
+        "Hoodies & Sweatshirts",
+        "Sweaters & Cardigans"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/men-jackets-coats/?spm=a2a0e.searchlistcategory.cate_4_6.1.53dbafbbAVBfXT",
+          "title": "Buy Men's Jackets & Coats Online @ Best Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-hoodies/?spm=a2a0e.searchlistcategory.cate_4_6.2.53dbafbbAVBfXT",
+          "title": "Men's Hoodies: Buy Hoody Online in Pakistan | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/men-sweaters-cardigans/?spm=a2a0e.searchlistcategory.cate_4_6.3.53dbafbbAVBfXT",
+          "title": "سویٹر اور کارڈیگن Price in Pakistan | 10% Bank Discount"
+        }
+      ]
+    },
+    "Inner Wear": {
+      "cat": [
+        "Briefs",
+        "Trunk & Boxers",
+        "Nightwear",
+        "Vests",
+        "Thermal",
+        "Socks"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/mens-briefs/?spm=a2a0e.searchlistcategory.cate_4_7.1.721c1deakqEwWw",
+          "title": "Briefs - Buy Briefs at Best Price in Pakistan | www.daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-boxers/?spm=a2a0e.searchlistcategory.cate_4_7.2.721c1deakqEwWw",
+          "title": "Trunks & Boxers - Buy Trunks & Boxers at Best Price in Pakistan | www.daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-sleepwear/?spm=a2a0e.searchlistcategory.cate_4_7.3.721c1deakqEwWw",
+          "title": "Buy Men Sleepwear & Innerwear@ Best Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-waistcoats/?spm=a2a0e.searchlistcategory.cate_4_7.4.721c1deakqEwWw",
+          "title": "Mens Waistcoats Price In Pakistan - Rs. 6500 On 0% Installment"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-thermal/?spm=a2a0e.searchlistcategory.cate_4_7.5.721c1deakqEwWw",
+          "title": "تھرمل at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-socks/?spm=a2a0e.searchlistcategory.cate_4_7.6.721c1deakqEwWw",
+          "title": "Socks: Buy Men's Socks Online in Pakistan | Daraz.pk"
+        }
+      ]
+    },
+    "Shoes": {
+      "cat": [
+        "Slip-Ons & Loafers",
+        "Flip Flops & Sandals",
+        "Sneakers",
+        "Formal Shoes",
+        "Boots",
+        "Khusa & Kolapuri",
+        "Shoes Accessories"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/mens-slip-ons/?spm=a2a0e.searchlistcategory.cate_4_8.1.69941593SHOwAT",
+          "title": "Men's Slip Ons Shoes Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-sandals-slippers/?spm=a2a0e.searchlistcategory.cate_4_8.2.69941593SHOwAT",
+          "title": "Mens Sandals Slippers - Mens Sandals Slippers Price In Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-sneakers/?spm=a2a0e.searchlistcategory.cate_4_8.3.69941593SHOwAT",
+          "title": "Men's Sneakers - Online Shopping with Free Delivery | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-formal-shoes/?spm=a2a0e.searchlistcategory.cate_4_8.4.69941593SHOwAT",
+          "title": "Men's Formal Shoes Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-boots/?spm=a2a0e.searchlistcategory.cate_4_8.5.69941593SHOwAT",
+          "title": "Men's Boots Online in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-khusa-kolapuri/?spm=a2a0e.searchlistcategory.cate_4_8.6.69941593SHOwAT",
+          "title": "Khusa & Kolapuri Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-shoe-care/?spm=a2a0e.searchlistcategory.cate_4_8.7.69941593SHOwAT",
+          "title": "Buy Mens Soles & Insoles @ Best Price in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Accessories": ["Belts", "Sunglasses", "Hats & Caps", "Ties & Bows"],
+    "Boy's Clothing": {
+      "cat": [
+        "T-Shirts & Shirts",
+        "Pants & Jeans",
+        "Shorts",
+        "Kurtas & Shalwar Kameez",
+        "Underwear & Socks"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/boys-t-shirts/?spm=a2a0e.searchlistcategory.cate_4_10.1.1c596235zLHC3u",
+          "title": "Boys T-Shirts Online Store in Pakistan – Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/fashion-boys-clothing-pants-jeans/?spm=a2a0e.searchlistcategory.cate_4_10.2.1c596235zLHC3u",
+          "title": "پینٹ اور جینز at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/boys-shorts/?spm=a2a0e.searchlistcategory.cate_4_10.3.1c596235zLHC3u",
+          "title": "Boy's Trendy Short Online Store in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/boys-kurtas/?spm=a2a0e.searchlistcategory.cate_4_10.4.1c596235zLHC3u",
+          "title": "کرتا اور شلوار قمیض at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/fashion-boys-clothing-underwear/?spm=a2a0e.searchlistcategory.cate_4_10.5.1c596235zLHC3u",
+          "title": "انڈرویئر اور موزے Price in Pakistan | 10% Bank Discount"
+        }
+      ]
+    },
+    "Boy's Shoes": { "cat": [""], "urls": [""] },
+    "Boy's Accessories": {
+      "cat": ["Belts", "Inner Wear", "Socks", "Hats & Caps"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/boys-belts-ties-bow-ties/?spm=a2a0e.searchlistcategory.cate_4_12.1.1af6301fadasNU",
+          "title": "Boy's Belts, Ties, & Bow Ties Online Store in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/clothing-men-underwear/?spm=a2a0e.searchlistcategory.cate_4_12.2.1af6301fadasNU",
+          "title": "انڈرویئر Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/boys-socks/?spm=a2a0e.searchlistcategory.cate_4_12.3.1af6301fadasNU",
+          "title": "Boys Trendy Socks Online Store in Pakistan – Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hats-scarves/?spm=a2a0e.searchlistcategory.cate_4_12.4.1af6301fadasNU",
+          "title": "Boy's Trendy Hats & Scarves Online Store in Pakistan - Daraz.pk"
+        }
+      ]
+    }
+  },
+  "Babies & Toys": {
+    "Diapering & Potty": {
+      "cat": [
+        "Disposable diapers",
+        "Diaper Bags",
+        "Wipes & Holders",
+        "Changing Tables, Pads & Kits",
+        "Diapering Care",
+        "Cloth Diapers & Accessories",
+        "Potty Training"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/baby-diapers/?spm=a2a0e.searchlistcategory.cate_5_1.1.56a36235kiq4EX",
+          "title": "Diaper Price In Pakistan - Rs. 279 - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/diaper-bags/?spm=a2a0e.searchlistcategory.cate_5_1.2.56a36235kiq4EX",
+          "title": "Buy Diaper Bags | Diaper Bags Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/wipes-holders/?spm=a2a0e.searchlistcategory.cate_5_1.3.56a36235kiq4EX",
+          "title": "Buy Wipes Holders | Wipes Holders Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-changing/?spm=a2a0e.searchlistcategory.cate_5_1.4.56a36235kiq4EX",
+          "title": "Buy Baby Changing | Baby Changing Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/diapering-care/?spm=a2a0e.searchlistcategory.cate_5_1.5.56a36235kiq4EX",
+          "title": "Buy Diapering Care | Diapering Care Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cloth-diapers-and-accessories/?spm=a2a0e.searchlistcategory.cate_5_1.6.56a36235kiq4EX",
+          "title": "Buy Cloth Diapers And Accessories | Cloth Diapers And Accessories Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/potty-training/?spm=a2a0e.searchlistcategory.cate_5_1.7.56a36235kiq4EX",
+          "title": "Buy Potty Training | Potty Training Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Milk Formula & Baby Food": {
+      "cat": [
+        "Growing-up Milk (3yrs +)",
+        "Toddler Milk (1 - under 3 yrs)",
+        "Maternal",
+        "Baby & Toddler Foods"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/growth-milk/?spm=a2a0e.searchlistcategory.cate_5_2.1.28a622f8A4Lzao",
+          "title": "نشونما کے لیے دودھ (3 سال +) at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/toddler-milk/?spm=a2a0e.searchlistcategory.cate_5_2.2.28a622f8A4Lzao",
+          "title": "چھوٹے بچوں کا دودھ (1 - 3 سال سے کم) at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/maternal-milk/?spm=a2a0e.searchlistcategory.cate_5_2.3.28a622f8A4Lzao",
+          "title": "زچہ at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-n-toddler-food/?spm=a2a0e.searchlistcategory.cate_5_2.4.28a622f8A4Lzao",
+          "title": "Buy Baby N Toddler Food | Baby N Toddler Food Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Feeding": {
+      "cat": ["Utensils", "Bottle-Feeding", "Breastfeeding", "Food Blenders"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/baby-utensils/?spm=a2a0e.searchlistcategory.cate_5_3.1.478520d2SILTPZ",
+          "title": "Baby Utensils Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bottle-feeding/?spm=a2a0e.searchlistcategory.cate_5_3.2.478520d2SILTPZ",
+          "title": "Bottle Feeding Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/breast-feeding/?spm=a2a0e.searchlistcategory.cate_5_3.3.478520d2SILTPZ",
+          "title": "Buy Breast Feeding | Breast Feeding Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-food-blenders/?spm=a2a0e.searchlistcategory.cate_5_3.4.478520d2SILTPZ",
+          "title": "Buy Baby Food Blenders | Baby Food Blenders Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Baby Gear": {
+      "cat": [
+        "Kids Bag",
+        "Swings, Jumpers & Bouncers",
+        "Strollers",
+        "Car Seats",
+        "Walkers",
+        "Backpacks & Carriers",
+        "Harnesses & Leashes"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/boys-bags/?spm=a2a0e.searchlistcategory.cate_5_4.1.60271e7fzBJSpX",
+          "title": "Boy's School Bags Online Store in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-walkers/?spm=a2a0e.searchlistcategory.cate_5_4.2.60271e7fzBJSpX",
+          "title": "Buy Baby Walkers | Baby Walkers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-toddler-strollers/?spm=a2a0e.searchlistcategory.cate_5_4.3.60271e7fzBJSpX",
+          "title": "Buy Baby Toddler Strollers | Baby Toddler Strollers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-car-seats/?spm=a2a0e.searchlistcategory.cate_5_4.4.60271e7fzBJSpX",
+          "title": "Buy Baby Car Seats | Baby Car Seats Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-toddler-walkers/?spm=a2a0e.searchlistcategory.cate_5_4.5.60271e7fzBJSpX",
+          "title": "Buy Baby Toddler Walkers | Baby Toddler Walkers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-toddler-carriers/?spm=a2a0e.searchlistcategory.cate_5_4.6.60271e7fzBJSpX",
+          "title": "Buy Baby Toddler Carriers | Baby Toddler Carriers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-harnesses-leashes/?spm=a2a0e.searchlistcategory.cate_5_4.7.60271e7fzBJSpX",
+          "title": "Buy Baby Harnesses Leashes | Baby Harnesses Leashes Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Baby & Toddler Toys": {
+      "cat": [
+        "Activity Gym & Playmats",
+        "Bath Toys",
+        "Building Blocks Toys",
+        "Crib Toys & Attachments",
+        "Early Development Toys",
+        "Music & Sound",
+        "Rattles",
+        "Push & Pull Toys"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/activity-play-centers/?spm=a2a0e.searchlistcategory.cate_5_5.1.7f434078i1Xofk",
+          "title": "Kids' Activity Play Centers - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bath-toys/?spm=a2a0e.searchlistcategory.cate_5_5.2.7f434078i1Xofk",
+          "title": "Bath Toys For Kids Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/stacking-blocks-/?spm=a2a0e.searchlistcategory.cate_5_5.3.7f434078i1Xofk",
+          "title": "Buy Stacking Blocks | Stacking Blocks Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-crib-toys/?spm=a2a0e.searchlistcategory.cate_5_5.4.7f434078i1Xofk",
+          "title": "Buy Baby Crib Toys | Baby Crib Toys Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/early-development-toys/?spm=a2a0e.searchlistcategory.cate_5_5.5.7f434078i1Xofk",
+          "title": "Early Development Toys For Kids at Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/music-sound/?spm=a2a0e.searchlistcategory.cate_5_5.6.7f434078i1Xofk",
+          "title": "Musical Toys For Kids - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-rattles/?spm=a2a0e.searchlistcategory.cate_5_5.7.7f434078i1Xofk",
+          "title": "Buy Baby Rattles | Baby Rattles Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/push-pull-toys/?spm=a2a0e.searchlistcategory.cate_5_5.8.7f434078i1Xofk",
+          "title": "Push & Pull Toys For Kids - Daraz.pk"
+        }
+      ]
+    },
+    "Remote Control & Vehicles": {
+      "cat": [
+        "Die-Cast Vehicles",
+        "Drones & Accessories",
+        "Play Trains & Railway Sets",
+        "Play Vehicles",
+        "RC Vehicles & Batteries"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/die-cast-cars/?spm=a2a0e.searchlistcategory.cate_5_6.1.1d512acdc538LN",
+          "title": "Buy Die Cast Cars | Die Cast Cars Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/drones-and-accessories/?spm=a2a0e.searchlistcategory.cate_5_6.2.1d512acdc538LN",
+          "title": "Buy Drones And Accessories | Drones And Accessories Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/model-railway-and-train-sets/?spm=a2a0e.searchlistcategory.cate_5_6.3.1d512acdc538LN",
+          "title": "Buy Model Railway And Train Sets | Model Railway And Train Sets Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/play-vehicles-toys/?spm=a2a0e.searchlistcategory.cate_5_6.4.1d512acdc538LN",
+          "title": "Buy Play Vehicles Toys | Play Vehicles Toys Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/vehicles-batteries/?spm=a2a0e.searchlistcategory.cate_5_6.5.1d512acdc538LN",
+          "title": "Buy Vehicles Batteries | Vehicles Batteries Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Sports & Outdoor Play": {
+      "cat": [
+        "Inflatable Bouncers",
+        "Swimming Pool & Water Toys",
+        "Fidget Spinners"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/inflatable-bouncers/?spm=a2a0e.searchlistcategory.cate_5_7.1.66ba642bxoulX2",
+          "title": "Buy Inflatable Bouncers | Inflatable Bouncers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/swimming-pool-and-water-toys/?spm=a2a0e.searchlistcategory.cate_5_7.2.66ba642bxoulX2",
+          "title": "Buy Swimming Pool And Water Toys | Swimming Pool And Water Toys Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/fidget-spinners/?spm=a2a0e.searchlistcategory.cate_5_7.3.66ba642bxoulX2",
+          "title": "Fidget Spinners Online: Prices in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Nursery": {
+      "cat": [
+        "Baby Furniture",
+        "Mattresses & Bedding",
+        "Storage & Organization"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/baby-furniture/?spm=a2a0e.searchlistcategory.cate_5_8.1.18293eb3IGXhve",
+          "title": "Buy Baby Furniture | Baby Furniture Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mattresses-bedding/?spm=a2a0e.searchlistcategory.cate_5_8.2.18293eb3IGXhve",
+          "title": "Buy Mattresses Bedding | Mattresses Bedding Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/storage-organization/?spm=a2a0e.searchlistcategory.cate_5_8.3.18293eb3IGXhve",
+          "title": "Buy Storage Organization | Storage Organization Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Baby Personal Care": {
+      "cat": [
+        "Skin Care",
+        "Bathing Tubs & Seats",
+        "Soaps, Cleansers & Bodywash",
+        "Baby Groomings & Care Kits",
+        "Grooming & Healthcare Kits",
+        "Toothbrushes & Toothpaste",
+        "Shampoo & Conditioners",
+        "Washcloths & Towels",
+        "Baby Bath Mats"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/baby-skin-care/?spm=a2a0e.searchlistcategory.cate_5_9.1.4d1a22e0eXA91b",
+          "title": "Buy Baby Skin Care | Baby Skin Care Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bath-tubs-seats/?spm=a2a0e.searchlistcategory.cate_5_9.2.4d1a22e0eXA91b",
+          "title": "Buy Bath Tubs Seats | Bath Tubs Seats Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-soaps-cleaners/?spm=a2a0e.searchlistcategory.cate_5_9.3.4d1a22e0eXA91b",
+          "title": "Buy Baby Soaps Cleaners | Baby Soaps Cleaners Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk//baby-soaps-cleaners/?spm=a2a0e.searchlistcategory.cate_5_9.4.4d1a22e0eXA91b",
+          "title": "https://www.daraz.pk//baby-soaps-cleaners/?spm=a2a0e.searchlistcategory.cate_5_9.4.4d1a22e0eXA91b"
+        },
+        {
+          "url": "https://www.daraz.pk/grooming-heathcare/?spm=a2a0e.searchlistcategory.cate_5_9.5.4d1a22e0eXA91b",
+          "title": "Buy Grooming Heathcare | Grooming Heathcare Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-oral-care/?spm=a2a0e.searchlistcategory.cate_5_9.6.4d1a22e0eXA91b",
+          "title": "Buy Baby Oral Care | Baby Oral Care Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-shampoo-conditioners/?spm=a2a0e.searchlistcategory.cate_5_9.7.4d1a22e0eXA91b",
+          "title": "Buy Baby Shampoo Conditioners | Baby Shampoo Conditioners Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-towels/?spm=a2a0e.searchlistcategory.cate_5_9.8.4d1a22e0eXA91b",
+          "title": "Buy Baby Towels | Baby Towels Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/baby-non-slip-bath-mats/?spm=a2a0e.searchlistcategory.cate_5_9.9.4d1a22e0eXA91b",
+          "title": "Buy Baby Non Slip Bath Mats | Baby Non Slip Bath Mats Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Clothing & Accessories": {
+      "cat": [
+        "New Born Unisex (0 - 6 mnths)",
+        "New born bodysuits",
+        "New born sets & Packs"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/new-born-baby-clothing/?spm=a2a0e.searchlistcategory.cate_5_10.1.422d69d6XuFB8k",
+          "title": "Buy New Born Baby Clothing | New Born Baby Clothing Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/boys-jumpsuits-rompers/?spm=a2a0e.searchlistcategory.cate_5_10.2.422d69d6XuFB8k",
+          "title": "Kids Jumpsuits & Rompers Online Store in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/sets-packs/?spm=a2a0e.searchlistcategory.cate_5_10.3.422d69d6XuFB8k",
+          "title": "Buy Newborn Unisex Sets & Packs Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Toys & Games": {
+      "cat": [
+        "Action Figures & Collectibles",
+        "Arts & Crafts for Kids",
+        "Blocks & Building toys",
+        "Dolls & Accessories",
+        "Learning & Education",
+        "Puzzle & Boardgames",
+        "Slime & Squishy Toys",
+        "Stuffed Toys",
+        "Pretend Play"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk//toys-action-figures-collectibles/?spm=a2a0e.searchlistcategory.cate_5_11.1.31014245a1bfo7",
+          "title": "https://www.daraz.pk//toys-action-figures-collectibles/?spm=a2a0e.searchlistcategory.cate_5_11.1.31014245a1bfo7"
+        },
+        {
+          "url": "https://www.daraz.pk//toys-arts-craft/?spm=a2a0e.searchlistcategory.cate_5_11.2.31014245a1bfo7",
+          "title": "https://www.daraz.pk//toys-arts-craft/?spm=a2a0e.searchlistcategory.cate_5_11.2.31014245a1bfo7"
+        },
+        {
+          "url": "https://www.daraz.pk/blocks-building-toys-games/?spm=a2a0e.searchlistcategory.cate_5_11.3.31014245a1bfo7",
+          "title": "Buy Legos & Building Block Toys Online At Best Prices in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/dolls-accessories/?spm=a2a0e.searchlistcategory.cate_5_11.4.31014245a1bfo7",
+          "title": "Kids Dolls & Accessories Online in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/educational-toys-games/?spm=a2a0e.searchlistcategory.cate_5_11.5.31014245a1bfo7",
+          "title": "سیکھنا اور تعلیم Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/toys-puzzles/?spm=a2a0e.searchlistcategory.cate_5_11.6.31014245a1bfo7",
+          "title": "پزل Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/slime-squishy-toys/?spm=a2a0e.searchlistcategory.cate_5_11.7.31014245a1bfo7",
+          "title": "سلائم اور اسکوشی کھلونے Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/stuffed-animals-plush/?spm=a2a0e.searchlistcategory.cate_5_11.8.31014245a1bfo7",
+          "title": "Stuffed Toys For Kids Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/kids-dress-up/?spm=a2a0e.searchlistcategory.cate_5_11.9.31014245a1bfo7",
+          "title": "Dress Up & Pretend Play - Buy Dress Up & Pretend Play at Best Price in Pakistan | www.daraz.pk"
+        }
+      ]
+    }
+  },
+  "Home & Lifestyle": {
+    "Bath": {
+      "cat": [
+        "Bath Mats",
+        "Bath Towels",
+        "Bathrobes",
+        "Bathroom Scales",
+        "Bathroom Shelving",
+        "Shower Caddies & Hangers",
+        "Shower Curtains",
+        "Towel Rails & Warmers"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/bath-mats-rugs/?spm=a2a0e.home.cate_6_1.1.49924937eSyenJ",
+          "title": "Bath Mats & Rugs Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bath-towels/?spm=a2a0e.home.cate_6_1.2.49924937eSyenJ",
+          "title": "Bath Towels Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bathrobes/?spm=a2a0e.home.cate_6_1.3.49924937eSyenJ",
+          "title": "Bathrobes Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bathroom-scales/?spm=a2a0e.home.cate_6_1.4.49924937eSyenJ",
+          "title": "Bathroom Scales Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/shower-curtains/?spm=a2a0e.home.cate_6_1.5.49924937eSyenJ",
+          "title": "Shower Curtains Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/shower-holders-hangers/?spm=a2a0e.home.cate_6_1.6.49924937eSyenJ",
+          "title": "Shower Holders & Hangers Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/shower-curtains/?spm=a2a0e.home.cate_6_1.7.49924937eSyenJ",
+          "title": "Shower Curtains Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bathroom-towel-racks-warmers/?spm=a2a0e.home.cate_6_1.8.49924937eSyenJ",
+          "title": "Towel Racks & Warmers Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Bedding": {
+      "cat": [
+        "Bed Sheets",
+        "Bedding Accessories",
+        "Blankets & Throws",
+        "Comforters, Quilts & Duvets",
+        "Mattress Protectors",
+        "Pillow Cases",
+        "Pillows & Bolsters"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/bedsheets/?spm=a2a0e.searchlistcategory.cate_6_2.1.6fa723aewPcwHG",
+          "title": "Bed sheets Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bedding-accessories/?spm=a2a0e.searchlistcategory.cate_6_2.2.6fa723aewPcwHG",
+          "title": "Bedding Accessories Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/blankets-throws/?spm=a2a0e.searchlistcategory.cate_6_2.3.6fa723aewPcwHG",
+          "title": "Blankets & Throws Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/comforters-quilts/?spm=a2a0e.searchlistcategory.cate_6_2.4.6fa723aewPcwHG",
+          "title": "Comforters & Quilts Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bedding-mattress-pads-protectors/?spm=a2a0e.searchlistcategory.cate_6_2.5.6fa723aewPcwHG",
+          "title": "Mattress Pads & Protectors Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/pillows/?spm=a2a0e.searchlistcategory.cate_6_2.6.6fa723aewPcwHG",
+          "title": "Buy Pillows | Pillows Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/anti-allergy-pillows/?spm=a2a0e.searchlistcategory.cate_6_2.7.6fa723aewPcwHG",
+          "title": "Buy Anti Allergy Pillows | Anti Allergy Pillows Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Decor": {
+      "cat": [
+        " Artificial Flowers & Plants",
+        "Candles & Candleholders",
+        "Clocks",
+        "Curtains",
+        "Cushions & Covers",
+        "Mirrors",
+        "Picture Frames",
+        "Rugs & Carpets",
+        "Vases & Vessels",
+        "Wall Stickers & Decals"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/artificial-flowers-plants/?spm=a2a0e.searchlistcategory.cate_6_3.1.7b702ca5TRHU59",
+          "title": "Buy Artificial Flowers Plants in Pakistan | Artificial Flowers Plants Price List - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/candles-candle-holders/?spm=a2a0e.searchlistcategory.cate_6_3.2.7b702ca5TRHU59",
+          "title": "Candles & Candle Holders Online in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/clocks/?spm=a2a0e.searchlistcategory.cate_6_3.3.7b702ca5TRHU59",
+          "title": "Buy Clocks | Clocks Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/curtains-blinds-shades/?spm=a2a0e.searchlistcategory.cate_6_3.4.7b702ca5TRHU59",
+          "title": "Buy Curtains Blinds Shades | Curtains Blinds Shades Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cushions/?spm=a2a0e.searchlistcategory.cate_6_3.5.7b702ca5TRHU59",
+          "title": "Cushions Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mirrors/?spm=a2a0e.searchlistcategory.cate_6_3.6.7b702ca5TRHU59",
+          "title": "Mirrors Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/picture-frames/?spm=a2a0e.searchlistcategory.cate_6_3.7.7b702ca5TRHU59",
+          "title": "Buy Picture Frames | Picture Frames Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/carpets-rugs/?spm=a2a0e.searchlistcategory.cate_6_3.8.7b702ca5TRHU59",
+          "title": "Buy Carpets Rugs | Carpets Rugs Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/vases/?spm=a2a0e.searchlistcategory.cate_6_3.9.7b702ca5TRHU59",
+          "title": "Vases Online in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/wall-stickers/?spm=a2a0e.searchlistcategory.cate_6_3.10.7b702ca5TRHU59",
+          "title": "Wall Stickers Online in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Furniture": {
+      "cat": [
+        "Bedroom",
+        "Gaming Furniture",
+        "Home Office",
+        "Kitchen Furniture",
+        "Living Room"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/bedroom-furniture/?spm=a2a0e.searchlistcategory.cate_6_4.1.6cb7593cV7PHOO",
+          "title": "Buy Bedroom Furniture | Bedroom Furniture Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/game-room-furniture/?spm=a2a0e.searchlistcategory.cate_6_4.2.6cb7593cV7PHOO",
+          "title": "Buy Game Room Furniture | Game Room Furniture Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/office-furniture/?spm=a2a0e.searchlistcategory.cate_6_4.3.6cb7593cV7PHOO",
+          "title": "Buy Office Furniture | Office Furniture Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/kitchen-dining-furniture/?spm=a2a0e.searchlistcategory.cate_6_4.4.6cb7593cV7PHOO",
+          "title": "Kitchen & Dining Room Furniture Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/living-room-furniture/?spm=a2a0e.searchlistcategory.cate_6_4.5.6cb7593cV7PHOO",
+          "title": "Living Room Furniture Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Kitchen & Dining": {
+      "cat": [
+        "Bakeware",
+        "Coffee & Tea",
+        "Cookware",
+        "Dinnerware",
+        "Drinkware",
+        "Kitchen & Table Linen",
+        "Kitchen Storage & Accessories",
+        "Kitchen Utensils",
+        "Knives & Accessories",
+        "Serveware"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/bakeware/?spm=a2a0e.searchlistcategory.cate_6_5.1.5af6b7decUOHDm",
+          "title": "Bakeware Shop: Online Store in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/coffee-tea-kitchenware/?spm=a2a0e.searchlistcategory.cate_6_5.2.5af6b7decUOHDm",
+          "title": "کافی اور چائے Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/cookware/?spm=a2a0e.searchlistcategory.cate_6_5.3.5af6b7decUOHDm",
+          "title": "Cookware Accessories & Sets Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/dinnerware/?spm=a2a0e.searchlistcategory.cate_6_5.4.5af6b7decUOHDm",
+          "title": "ڈنر ویئر Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/drinkware/?spm=a2a0e.searchlistcategory.cate_6_5.5.5af6b7decUOHDm",
+          "title": "پینے کا سامان Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/kitchen-table-linens-accessories/?spm=a2a0e.searchlistcategory.cate_6_5.6.5af6b7decUOHDm",
+          "title": "کچن اور ٹیبل لینن Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/kitchen-organizer-storage/?spm=a2a0e.searchlistcategory.cate_6_5.7.5af6b7decUOHDm",
+          "title": "Buy Kitchen Storage & Organizers @ Best Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/kitchen-tools-accessories/?spm=a2a0e.searchlistcategory.cate_6_5.8.5af6b7decUOHDm",
+          "title": "Buy Kitchen Tools & Accessories @ Best Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/kitchen-knives-accessories/?spm=a2a0e.searchlistcategory.cate_6_5.9.5af6b7decUOHDm",
+          "title": "Buy Kitchen Knives Accessories | Kitchen Knives Accessories Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/serveware/?spm=a2a0e.searchlistcategory.cate_6_5.10.5af6b7decUOHDm",
+          "title": "سرو ویئر Price in Pakistan | 10% Bank Discount"
+        }
+      ]
+    },
+    "Lighting": {
+      "cat": [
+        "Ceiling Lights",
+        "Floor Lamps",
+        "Lamp Shades",
+        "Light Bulbs",
+        "Lighting Fixtures & Components",
+        "Outdoor Lighting",
+        "Rechargeables & Flashlights",
+        "Table Lamps",
+        "Wall Lights & Sconces"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/ceiling-lights/?spm=a2a0e.searchlistcategory.cate_6_6.1.4228260eR2q4j8",
+          "title": "Ceiling Lights Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/floor-lamps/?spm=a2a0e.searchlistcategory.cate_6_6.2.4228260eR2q4j8",
+          "title": "Buy Floor Lamps | Floor Lamps Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bedside-lamps/?spm=a2a0e.searchlistcategory.cate_6_6.3.4228260eR2q4j8",
+          "title": "Buy Bedside Lamps | Bedside Lamps Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/lighting-bulbs/?spm=a2a0e.searchlistcategory.cate_6_6.4.4228260eR2q4j8",
+          "title": "Buy Lighting Bulbs | Lighting Bulbs Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/lighting-components/?spm=a2a0e.searchlistcategory.cate_6_6.5.4228260eR2q4j8",
+          "title": "Buy Lighting Components | Lighting Components Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/outdoor-lighting/?spm=a2a0e.searchlistcategory.cate_6_6.6.4228260eR2q4j8",
+          "title": "Buy Outdoor Lighting | Outdoor Lighting Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/rechargeable-lights/?spm=a2a0e.searchlistcategory.cate_6_6.7.4228260eR2q4j8",
+          "title": "Rechargeable Lights Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/table-lamps/?spm=a2a0e.searchlistcategory.cate_6_6.8.4228260eR2q4j8",
+          "title": "Table Lamps Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/wall-lights/?spm=a2a0e.searchlistcategory.cate_6_6.9.4228260eR2q4j8",
+          "title": "Buy Wall Lights | Wall Lights Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Laundry & Cleaning": {
+      "cat": [
+        "Brushes, Sponges & Wipers",
+        "Brooms, Mops & Sweepers",
+        "Laundry Baskets & Hampers",
+        "Clothes Line & Drying Racks",
+        "Ironing Boards"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/household-supplies/?spm=a2a0e.searchlistcategory.cate_6_7.1.18871173q4nDxM",
+          "title": "Buy Household Supplies | Household Supplies Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mops-refills-mop-sets/?spm=a2a0e.searchlistcategory.cate_6_7.2.18871173q4nDxM",
+          "title": "Mops, Refills & Mop Sets Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bathroom-baskets-trays/?spm=a2a0e.searchlistcategory.cate_6_7.3.18871173q4nDxM",
+          "title": "Bathroom Baskets & Trays Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/pegs-clothes-lines/?spm=a2a0e.searchlistcategory.cate_6_7.4.18871173q4nDxM",
+          "title": "Pegs & Clothes Lines Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/ironing-boards-covers/?spm=a2a0e.searchlistcategory.cate_6_7.5.18871173q4nDxM",
+          "title": "Ironing Boards & Covers Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Tools, DIY & Outdoor": {
+      "cat": [
+        "Fixtures & Plumbing",
+        "Electrical",
+        "Hand Tools",
+        "Lawn & Garden",
+        "Power Tools",
+        "Security",
+        "Home Build Up",
+        "Primers",
+        "Paints"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/plumbing/?spm=a2a0e.searchlistcategory.cate_6_8.1.611312eaccrpLs",
+          "title": "فکسچر اور پلمبنگ Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/electrical-equipment/?spm=a2a0e.searchlistcategory.cate_6_8.2.611312eaccrpLs",
+          "title": "الیکٹریکل Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/engine-hand-tools/?spm=a2a0e.searchlistcategory.cate_6_8.3.611312eaccrpLs",
+          "title": "Hand Tools at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/lawn-garden/?spm=a2a0e.searchlistcategory.cate_6_8.4.611312eaccrpLs",
+          "title": "Buy Gardening Tools & Accessories @ Best Prices in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/power-tools/?spm=a2a0e.searchlistcategory.cate_6_8.5.611312eaccrpLs",
+          "title": "پاور ٹول Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/security-system-hardware/?spm=a2a0e.searchlistcategory.cate_6_8.6.611312eaccrpLs",
+          "title": "سیکورٹی Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/home-build-up/?spm=a2a0e.searchlistcategory.cate_6_8.7.611312eaccrpLs",
+          "title": "گھر کی تعمیر Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/supplies-paints/?spm=a2a0e.searchlistcategory.cate_6_8.8.611312eaccrpLs",
+          "title": "Buy Supplies Paints | Supplies Paints Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/paints/?spm=a2a0e.searchlistcategory.cate_6_8.9.611312eaccrpLs",
+          "title": "پینٹس at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Stationery & Craft": {
+      "cat": [
+        "Art Supplies",
+        "Gifts & Wrapping",
+        "Packaging & Cartons",
+        "Paper Products",
+        "School & Office Equipment",
+        "Writing & Correction",
+        "School Uniforms"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/art-supplies/?spm=a2a0e.searchlistcategory.cate_6_9.1.7ad4be55vjhYzV",
+          "title": "آرٹ کا سامان Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/gifts-wrapping/?spm=a2a0e.searchlistcategory.cate_6_9.2.7ad4be55vjhYzV",
+          "title": "تحائف اور ریپنگ Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/packaging-products/?spm=a2a0e.searchlistcategory.cate_6_9.3.7ad4be55vjhYzV",
+          "title": "Buy Packaging Boxes, Material & Products @ Best Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/paper-products/?spm=a2a0e.searchlistcategory.cate_6_9.4.7ad4be55vjhYzV",
+          "title": "Papers Products Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/school-supplies/?spm=a2a0e.searchlistcategory.cate_6_9.5.7ad4be55vjhYzV",
+          "title": "School Supplies Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/writing-utensils/?spm=a2a0e.searchlistcategory.cate_6_9.6.7ad4be55vjhYzV",
+          "title": "Buy Color Pencils & Writing Utensils @ Best Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/school-uniforms/?spm=a2a0e.searchlistcategory.cate_6_9.7.7ad4be55vjhYzV",
+          "title": "اسکول یونیفارم Price in Pakistan | 10% Bank Discount"
+        }
+      ]
+    },
+    "Media, Music & Books": {
+      "cat": [
+        "Books",
+        "English Books",
+        "Islamic Books",
+        "English Literature Books",
+        "English Story Books",
+        "History Books",
+        "eBooks",
+        "Magazines",
+        "Musical Instruments"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/books-magazines/?spm=a2a0e.searchlistcategory.cate_6_10.1.155e7bd1b4aWMP",
+          "title": "Online Bookstore in Pakistan: Buy Books & Magazine Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/english-fiction-books/?spm=a2a0e.searchlistcategory.cate_6_10.2.155e7bd1b4aWMP",
+          "title": "Buy English Fiction Books in Pakistan | English Fiction Books Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/religion-books/?spm=a2a0e.searchlistcategory.cate_6_10.3.155e7bd1b4aWMP",
+          "title": "Religion Books at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/literature/?spm=a2a0e.searchlistcategory.cate_6_10.4.155e7bd1b4aWMP",
+          "title": "Literature at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/english-children-books/?spm=a2a0e.searchlistcategory.cate_6_10.5.155e7bd1b4aWMP",
+          "title": "Buy English Children Books in Pakistan | English Children Books Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/humanities-politics/?spm=a2a0e.searchlistcategory.cate_6_10.6.155e7bd1b4aWMP",
+          "title": "تاریخی کتابیں at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/ebooks/?spm=a2a0e.searchlistcategory.cate_6_10.7.155e7bd1b4aWMP",
+          "title": "Ebooks - Buy Ebooks at Best Price in Pakistan | www.daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/magazines/?spm=a2a0e.searchlistcategory.cate_6_10.8.155e7bd1b4aWMP",
+          "title": "Magazines Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/musical-instruments/?spm=a2a0e.searchlistcategory.cate_6_10.9.155e7bd1b4aWMP",
+          "title": "موسیقی کے آلات Price in Pakistan | 10% Bank Discount"
+        }
+      ]
+    },
+    "Charity & Donation": {
+      "cat": [
+        "Donate to Healthcare",
+        "Donate to Shelter",
+        "Donate to Educate",
+        "Others",
+        "Zakat"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/charity-healthcare/?spm=a2a0e.searchlistcategory.cate_6_11.1.4ec12a17WVzx24",
+          "title": "صحت کی نگہداشت کے لیے عطیہ کریں at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/charity-shelter/?spm=a2a0e.searchlistcategory.cate_6_11.2.4ec12a17WVzx24",
+          "title": "پناہ گاہ کے لیے عطیہ کریں at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/charity-education/?spm=a2a0e.searchlistcategory.cate_6_11.3.4ec12a17WVzx24",
+          "title": "تعلیم کے لیے عطیہ کریں at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/charity-other/?spm=a2a0e.searchlistcategory.cate_6_11.4.4ec12a17WVzx24",
+          "title": "دیگر at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/charity-zakat/?spm=a2a0e.searchlistcategory.cate_6_11.5.4ec12a17WVzx24",
+          "title": "زکوٰۃ at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    }
+  },
+
+  "Electronic Devices": {
+    "Smart Phones": {
+      "cat": [
+        "Nokia Mobiles",
+        "Apple iPhones",
+        "Xiaomi Mi Mobiles",
+        "Redmi Mobiles",
+        "Realme Mobiles",
+        "Oppo Mobile Phones",
+        "Oneplus Mobiles",
+        "Infinix Mobiles",
+        "Honor Mobiles",
+        "Tecno Mobiles",
+        "Samsung Mobile Phones",
+        "Vivo Mobiles"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/smartphones/nokia/?spm=a2a0e.searchlistcategory.cate_7_1.1.5f8316794x7ktp",
+          "title": "Nokia Mobile Price in Pakistan 2022 | Nokia Phones on Installments - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/smartphones/apple/?spm=a2a0e.searchlistcategory.cate_7_1.2.5f8316794x7ktp",
+          "title": "Apple iPhones | iPhone Price in Pakistan Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/smartphones/mi/?spm=a2a0e.searchlistcategory.cate_7_1.3.5f8316794x7ktp",
+          "title": "Mi Mobile Price in Pakistan 2022 | Mi Phones on Installments - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/smartphones/redmi/?spm=a2a0e.searchlistcategory.cate_7_1.4.5f8316794x7ktp",
+          "title": "Redmi Mobile Price in Pakistan 2022 | Xiaomi Redmi Phones on Installments - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/smartphones/realme/?spm=a2a0e.searchlistcategory.cate_7_1.5.5f8316794x7ktp",
+          "title": "Buy Realme Smartphones in Pakistan | Realme Smartphones Price List - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/smartphones/oppo/?spm=a2a0e.searchlistcategory.cate_7_1.6.5f8316794x7ktp",
+          "title": "Oppo Mobile: Lowest Price in Pakistan | Available on Installments"
+        },
+        {
+          "url": "https://www.daraz.pk/smartphones/oneplus/?spm=a2a0e.searchlistcategory.cate_7_1.7.5f8316794x7ktp",
+          "title": "Oneplus Mobile Price in Pakistan 2022 | Oneplus Phones on Installments - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/smartphones/infinix/?spm=a2a0e.searchlistcategory.cate_7_1.8.5f8316794x7ktp",
+          "title": "Infinix Mobile Price in Pakistan | Infinix Mobiles Price List 2022 - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/smartphones/honor/?spm=a2a0e.searchlistcategory.cate_7_1.9.5f8316794x7ktp",
+          "title": "Honor Mobile Price in Pakistan 2022 | Honor Phones on Installments - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/smartphones/tecno-mobile/?spm=a2a0e.searchlistcategory.cate_7_1.10.5f8316794x7ktp",
+          "title": "Page Not Found"
+        },
+        {
+          "url": "https://www.daraz.pk/smartphones/samsung/?spm=a2a0e.searchlistcategory.cate_7_1.11.5f8316794x7ktp",
+          "title": "Samsung Mobile: Lowest Price in Pakistan | Available on Installments"
+        },
+        {
+          "url": "https://www.daraz.pk/smartphones/vivo/?spm=a2a0e.searchlistcategory.cate_7_1.12.5f8316794x7ktp",
+          "title": "Vivo Mobile Price in Pakistan | Vivo New Model Price List 2022 - Daraz.pk"
+        }
+      ]
+    },
+    "Feature Phones": { "cat": [""], "urls": [""] },
+    "Tablets": { "cat": [""], "urls": [""] },
+    "Landline Phones": { "cat": [""], "urls": [""] },
+    "Laptops": {
+      "cat": ["Gaming Laptops", "Refurbished Laptops", "Traditional Laptops"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/gaming-laptops/",
+          "title": "Gaming Laptops Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/refurbished-laptops/",
+          "title": "Buy Refurbished Laptops | Refurbished Laptops Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/traditional-laptops/",
+          "title": "Buy Notebooks - Notepads Online at Best Prices in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Desktops": {
+      "cat": ["Gaming Desktops", "All-In-One", "DIY"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/gaming-desktops-monitors/?spm=a2a0e.home.cate_7_6.1.35e3493763KVIm",
+          "title": "Buy Gaming Desktops Monitors | Gaming Desktops Monitors Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/computer-all-in-ones/?spm=a2a0e.home.cate_7_6.2.35e3493763KVIm",
+          "title": "All-in-One Computers Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/computer-towers/?spm=a2a0e.home.cate_7_6.3.35e3493763KVIm",
+          "title": "Tower Computers Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Smart Watches": { "cat": [""], "urls": [""] },
+    "Gaming Consoles": {
+      "cat": [
+        "PlayStation Consoles",
+        "Playstation Games",
+        "Playstation Controllers",
+        "Nintendo Games",
+        "Xbox Games"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/playstation-consoles/?spm=a2a0e.searchlistcategory.cate_7_8.1.6a2112d0uBtpGi",
+          "title": "PlayStation Console Price in Pakistan | PS 5 - PS 4 & PS 3 Best Prices - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/playstation-games/?spm=a2a0e.searchlistcategory.cate_7_8.2.6a2112d0uBtpGi",
+          "title": "Buy 2019 PS4 Pro & Slim Games at Best Prices in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/gaming-controllers/?spm=a2a0e.searchlistcategory.cate_7_8.3.6a2112d0uBtpGi",
+          "title": "Gaming Console Controllers Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/nintendo-games/?spm=a2a0e.searchlistcategory.cate_7_8.4.6a2112d0uBtpGi",
+          "title": "Nintendo Games Online at Best Prices in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/xbox-games/?spm=a2a0e.searchlistcategory.cate_7_8.5.6a2112d0uBtpGi",
+          "title": "Buy 2019 Xbox One Games at Best Prices in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Cameras & Drones": {
+      "cat": [
+        "Video Camera",
+        "DSLR",
+        "Drones",
+        "Point & Shoot",
+        "Instant Cameras"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/video-camera/?spm=a2a0e.searchlistcategory.cate_7_9.1.3b0051b756h1bz",
+          "title": "Buy Video Camera | Video Camera Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/video-camera/?spm=a2a0e.searchlistcategory.cate_7_9.1.3b0051b756h1bz",
+          "title": "Buy Video Camera | Video Camera Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/camera-drones/?spm=a2a0e.searchlistcategory.cate_7_9.3.3b0051b756h1bz",
+          "title": "Drone Online Shopping Store in Pakistan | Top Drone Brands - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/point-shoot-plain-digital/?spm=a2a0e.searchlistcategory.cate_7_9.4.3b0051b756h1bz",
+          "title": "پوائنٹ اور شوٹ Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/instant-camera/?spm=a2a0e.searchlistcategory.cate_7_9.5.3b0051b756h1bz",
+          "title": "انسٹینٹ کیمرا Price in Pakistan | 10% Bank Discount"
+        }
+      ]
+    },
+    "Security Cameras": {
+      "cat": ["IP Security Cameras"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/security-surveillance/?spm=a2a0e.searchlistcategory.cate_7_10.1.23b03099BEtlaa",
+          "title": "Security & Surveillance Cameras Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Insurance & Protection": {
+      "cat": [
+        "Rs60,000- Rs70,000",
+        "Rs90,000- Rs100,000",
+        "Rs80,000- Rs90,000",
+        "Rs40,000- Rs50,000",
+        "Rs70,000- Rs80,000",
+        "Rs50,000- Rs60,000",
+        "Rs30,000- Rs40,000",
+        "Rs20,000- Rs30,000",
+        "Rs10,000- Rs20,000",
+        "Below Rs10,000"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/insurance-protection/?spm=a2a0e.searchlistcategory.cate_7_11.1.46eb69f5vKK7zf&ppath=40914%3A121012276",
+          "title": "Mobile Phone Insurance Plans & Protection in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/insurance-protection/?spm=a2a0e.searchlistcategory.cate_7_11.2.46eb69f5vKK7zf&ppath=40914%3A121012279",
+          "title": "Mobile Phone Insurance Plans & Protection in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/insurance-protection/?spm=a2a0e.searchlistcategory.cate_7_11.3.46eb69f5vKK7zf&ppath=40914%3A121012278",
+          "title": "Mobile Phone Insurance Plans & Protection in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/insurance-protection/?spm=a2a0e.searchlistcategory.cate_7_11.4.46eb69f5vKK7zf&ppath=40914%3A121012274",
+          "title": "Mobile Phone Insurance Plans & Protection in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/insurance-protection/?spm=a2a0e.searchlistcategory.cate_7_11.5.46eb69f5vKK7zf&ppath=40914%3A121012277",
+          "title": "Mobile Phone Insurance Plans & Protection in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/insurance-protection/?spm=a2a0e.searchlistcategory.cate_7_11.6.46eb69f5vKK7zf&ppath=40914%3A121012275",
+          "title": "Mobile Phone Insurance Plans & Protection in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/insurance-protection/?spm=a2a0e.searchlistcategory.cate_7_11.7.46eb69f5vKK7zf&ppath=40914%3A121012273",
+          "title": "Mobile Phone Insurance Plans & Protection in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/insurance-protection/?spm=a2a0e.searchlistcategory.cate_7_11.8.46eb69f5vKK7zf&ppath=40914%3A121012272",
+          "title": "Mobile Phone Insurance Plans & Protection in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/insurance-protection/?spm=a2a0e.searchlistcategory.cate_7_11.9.46eb69f5vKK7zf&ppath=40914%3A121012271",
+          "title": "Mobile Phone Insurance Plans & Protection in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/insurance-protection/?spm=a2a0e.searchlistcategory.cate_7_11.10.46eb69f5vKK7zf&ppath=40914%3A121012270",
+          "title": "Mobile Phone Insurance Plans & Protection in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Daraz Like New": {
+      "cat": ["Like New Phones"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/like-new-phones/?spm=a2a0e.searchlistcategory.cate_7_12.1.67d315fbziV7Is",
+          "title": "Like New Phones at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    }
+  },
+  "Electronic Accessories": {
+    "Mobile Accessories": {
+      "cat": [
+        "Phone Cases",
+        "Power Banks",
+        "Cables & Converters",
+        "Wall Chargers",
+        "Wireless Chargers",
+        "Tablet Accessories",
+        "Parts & Tools",
+        "Car Chargers",
+        "Screen Protectors",
+        "Phone Camera Flash Lights",
+        "Selfie Sticks",
+        "Docks & Stands"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/mobile-cases-covers/?spm=a2a0e.searchlistcategory.cate_8_1.1.510e4a78W8XuDo",
+          "title": "Stylish Mobile Phone Covers Pakistan | Custom Phone Cases - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mobile-power-banks/?spm=a2a0e.searchlistcategory.cate_8_1.2.510e4a78W8XuDo",
+          "title": "Buy Mobile Power Banks in Pakistan | Mobile Power Banks Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/other-phone-tablet-accessories/?spm=a2a0e.searchlistcategory.cate_8_1.3.510e4a78W8XuDo",
+          "title": "Buy Mobile & Tablet Peripherals & Accessories in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/phone-tablet-chargers/?spm=a2a0e.searchlistcategory.cate_8_1.4.510e4a78W8XuDo",
+          "title": "Buy Phone Tablet Chargers | Phone Tablet Chargers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/wireless-charger/?spm=a2a0e.searchlistcategory.cate_8_1.5.510e4a78W8XuDo",
+          "title": "Mobile Phone (Smartphones) Wireless Chargers Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/accessories-tablet/?spm=a2a0e.searchlistcategory.cate_8_1.6.510e4a78W8XuDo",
+          "title": "Tablet Accessories Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/mobiles-tablets-parts-tools/?spm=a2a0e.searchlistcategory.cate_8_1.7.510e4a78W8XuDo",
+          "title": "Buy Mobiles Tablets Parts Tools | Mobiles Tablets Parts Tools Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/car-chargers/?spm=a2a0e.searchlistcategory.cate_8_1.8.510e4a78W8XuDo",
+          "title": "Car Mobile Chargers Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mobile-surface-screen-protectors/?spm=a2a0e.searchlistcategory.cate_8_1.9.510e4a78W8XuDo",
+          "title": "Mobile Surface & Screen Protectors Online - daraz Pakistan"
+        },
+        {
+          "url": "https://www.daraz.pk/phone-camera-flash-lights/?spm=a2a0e.searchlistcategory.cate_8_1.10.510e4a78W8XuDo",
+          "title": "Buy Phone Camera Flash Lights | Phone Camera Flash Lights Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/selfie-sticks/?spm=a2a0e.searchlistcategory.cate_8_1.11.510e4a78W8XuDo",
+          "title": "Selfie Sticks Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/wireless-speakers/?spm=a2a0e.searchlistcategory.cate_8_1.12.510e4a78W8XuDo",
+          "title": "Mobile Wireless Speakers Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Headphones & Headsets": {
+      "cat": [
+        "Bluetooth Headsets",
+        "Headphones & Headsets Access",
+        "In-Ear Headphones",
+        "Mono Headsets",
+        "Over-The-Ear Headphones",
+        "Wired Headsets",
+        "Wireless Earbuds"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/audio-bluetooth-headsets/?spm=a2a0e.searchlistcategory.cate_8_2.1.512d5a2fXHHqUD",
+          "title": "بلوٹوتھ ہیڈسیٹ at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/headphones-headsets-accessories/?spm=a2a0e.searchlistcategory.cate_8_2.2.512d5a2fXHHqUD",
+          "title": "ہیڈ فون اور ہیڈسیٹ ایکسیسیریز at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/earphones-headsets/?spm=a2a0e.searchlistcategory.cate_8_2.3.512d5a2fXHHqUD",
+          "title": "Mobile Headsets & Earphones Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mono-headsets/?spm=a2a0e.searchlistcategory.cate_8_2.4.512d5a2fXHHqUD",
+          "title": "مونو ہیڈسیٹ at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/over-the-ear-headphones/?spm=a2a0e.searchlistcategory.cate_8_2.5.512d5a2fXHHqUD",
+          "title": "کان کے اوپر والے ہیڈ فونز at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/audio-wired-headsets/?spm=a2a0e.searchlistcategory.cate_8_2.6.512d5a2fXHHqUD",
+          "title": "وائرڈ ہیڈسیٹ at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/wireless-earbuds/?spm=a2a0e.searchlistcategory.cate_8_2.7.512d5a2fXHHqUD",
+          "title": "Buy Wireless Earbuds in Pakistan | Wireless Earbuds Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Wearable": {
+      "cat": [
+        "Smartwatches",
+        "Fitness & Activity Trackers",
+        "Fitness Tracker Accessories",
+        "Virtual Reality"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/smart-watches/?spm=a2a0e.searchlistcategory.cate_8_3.1.4e3462a5jvDkbS",
+          "title": "SmartWatches - SmartWatches Price List In Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/fitness-trackers/?spm=a2a0e.searchlistcategory.cate_8_3.2.4e3462a5jvDkbS",
+          "title": "صحت ٹریکرز at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/activity-trackers-accessories/?spm=a2a0e.searchlistcategory.cate_8_3.3.4e3462a5jvDkbS",
+          "title": "Buy Activity Trackers Accessories | Activity Trackers Accessories Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/virtual-reality/?spm=a2a0e.searchlistcategory.cate_8_3.4.4e3462a5jvDkbS",
+          "title": "Buy Virtual Reality | Virtual Reality Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Camera Accessories": {
+      "cat": [
+        "Memory Cards",
+        "Lenses",
+        "Tripods & Monopods",
+        "Camera Cases, Covers and Bags",
+        "Action Camera Accessories",
+        "Lighting & Studio Equipment",
+        "Batteries",
+        "Gimbals & Stabilizers"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/memory-cards/?spm=a2a0e.searchlistcategory.cate_8_4.1.2bcb6399o1NYmD",
+          "title": "Buy Memory Cards | Memory Cards Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/camera-lenses/?spm=a2a0e.searchlistcategory.cate_8_4.2.2bcb6399o1NYmD",
+          "title": "Camera Lenses Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/tripods-monopods/?spm=a2a0e.searchlistcategory.cate_8_4.3.2bcb6399o1NYmD",
+          "title": "Buy Tripods Monopods | Tripods Monopods Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/camera-bags/?spm=a2a0e.searchlistcategory.cate_8_4.4.2bcb6399o1NYmD",
+          "title": "Camera Bags Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/sport-action-camera-accessories/?spm=a2a0e.searchlistcategory.cate_8_4.5.2bcb6399o1NYmD",
+          "title": "Buy Sport Action Camera Accessories | Sport Action Camera Accessories Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/lighting-studio-equipment/?spm=a2a0e.searchlistcategory.cate_8_4.6.2bcb6399o1NYmD",
+          "title": "Buy Lighting Studio Equipment | Lighting Studio Equipment Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/camera-batteries/?spm=a2a0e.searchlistcategory.cate_8_4.7.2bcb6399o1NYmD",
+          "title": "Camera Batteries Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/gimbals-stabilizer/?spm=a2a0e.searchlistcategory.cate_8_4.8.2bcb6399o1NYmD",
+          "title": "Buy Gimbals Stabilizer | Gimbals Stabilizer Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Computer Accessories": {
+      "cat": [
+        "Cooling Pads/Cooling Stands",
+        "Keyboards",
+        "Mice",
+        "Adapters & Cables",
+        "PC Audio",
+        "Gaming Headsets",
+        "Gaming Mice",
+        "Gaming Keyboards",
+        "Mac Accessories"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/other-computer-accessories/?spm=a2a0e.searchlistcategory.cate_8_5.1.17ae6578zLtKQM",
+          "title": "Computer Accessories Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/keyboard/?spm=a2a0e.searchlistcategory.cate_8_5.2.17ae6578zLtKQM",
+          "title": "Computer Keyboard Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mouse/?spm=a2a0e.searchlistcategory.cate_8_5.3.17ae6578zLtKQM",
+          "title": "Computer Mouse Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/computer-adapters/?spm=a2a0e.searchlistcategory.cate_8_5.4.17ae6578zLtKQM",
+          "title": "Computer Adapters Online in Pakitan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/pc-audio/?spm=a2a0e.searchlistcategory.cate_8_5.5.17ae6578zLtKQM",
+          "title": "Buy Pc Audio | Pc Audio Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/gaming-headsets/?spm=a2a0e.searchlistcategory.cate_8_5.6.17ae6578zLtKQM",
+          "title": "Gaming Headsets Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/gaming-mouse/?spm=a2a0e.searchlistcategory.cate_8_5.7.17ae6578zLtKQM",
+          "title": "Gaming at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/keyboards-gaming/?spm=a2a0e.searchlistcategory.cate_8_5.8.17ae6578zLtKQM",
+          "title": "Gaming at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mac-accessories/?spm=a2a0e.searchlistcategory.cate_8_5.9.17ae6578zLtKQM",
+          "title": "Buy Mac Accessories | Mac Accessories Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Storage": {
+      "cat": [
+        "External Hard Drives",
+        "Internal Hard Drives",
+        "Flash Drives",
+        "OTG Drives",
+        "Storage for Mac"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/external-hard-drives/?spm=a2a0e.searchlistcategory.cate_8_6.1.22e479e8Lpi9wh",
+          "title": "Buy Portable External Hard Drives in Best Prices in Pakistan – Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/internal-hard-drives/?spm=a2a0e.searchlistcategory.cate_8_6.2.22e479e8Lpi9wh",
+          "title": "Internal Hard Drives & SSD Drives Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/usb-flash-drives/?spm=a2a0e.searchlistcategory.cate_8_6.3.22e479e8Lpi9wh",
+          "title": "Usb Price In Pakistan - Rs. 799 - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/storage-otg-drives/?spm=a2a0e.searchlistcategory.cate_8_6.4.22e479e8Lpi9wh",
+          "title": "Buy Storage Otg Drives | Storage Otg Drives Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/storage-mac/?spm=a2a0e.searchlistcategory.cate_8_6.5.22e479e8Lpi9wh",
+          "title": "Buy Storage Mac | Storage Mac Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Printers": {
+      "cat": ["Printers", "Ink & Toners", "Fax Machines"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/multi-function-printers/?spm=a2a0e.searchlistcategory.cate_8_7.1.3c87dfd988Bism",
+          "title": "Buy Multi Function Printers | Multi Function Printers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/printer-ink/?spm=a2a0e.searchlistcategory.cate_8_7.2.3c87dfd988Bism",
+          "title": "Buy Printer Ink | Printer Ink Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/fax-machines/?spm=a2a0e.searchlistcategory.cate_8_7.3.3c87dfd988Bism",
+          "title": "Fax Machines Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Computer Components": {
+      "cat": [
+        "Graphic Cards",
+        "Desktop Casings",
+        "Motherboards",
+        "Fans & Heatsinks",
+        "Processors"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/computer-graphic-cards/?spm=a2a0e.searchlistcategory.cate_8_8.1.3b0a23baJo44WP",
+          "title": "Buy Computer Graphic Cards | Computer Graphic Cards Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/casing/?spm=a2a0e.searchlistcategory.cate_8_8.2.3b0a23baJo44WP",
+          "title": "Computer Cases Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/motherboard/?spm=a2a0e.searchlistcategory.cate_8_8.3.3b0a23baJo44WP",
+          "title": "Laptops - Gaming Computer Motherboard Prices in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/fans-heatsinks/?spm=a2a0e.searchlistcategory.cate_8_8.4.3b0a23baJo44WP",
+          "title": "Buy Fans Heatsinks | Fans Heatsinks Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/processor/?spm=a2a0e.searchlistcategory.cate_8_8.5.3b0a23baJo44WP",
+          "title": "Buy Processor | Processor Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Network Components": {
+      "cat": ["Access Points"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/access-points/?spm=a2a0e.searchlistcategory.cate_8_9.1.650a188ajdbJy6",
+          "title": "Buy Access Points | Access Points Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Portable Speakers": { "cat": [""], "urls": [""] }
+  },
+  "TV & Home Appliances": {
+    "LED Televisions": { "cat": [""], "urls": [""] },
+    "Smart Televisions": {
+      "cat": [
+        "OLED Televisions",
+        "Laser Televisions",
+        "4K Televisions",
+        "ULED Televisions"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/oled-tvs/?spm=a2a0e.searchlistcategory.cate_9_2.1.61ca7e00vTNs8F",
+          "title": "OLED TV Price in Pakistan | Buy Online Today! - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/laser-tvs/?spm=a2a0e.searchlistcategory.cate_9_2.2.61ca7e00vTNs8F",
+          "title": "Laser TVs: Price in Pakistan | Laser TVs Installment Plans - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/4k-televisions/?spm=a2a0e.searchlistcategory.cate_9_2.3.61ca7e00vTNs8F",
+          "title": "Buy K Televisions | K Televisions Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/uled-tvs/?spm=a2a0e.searchlistcategory.cate_9_2.4.61ca7e00vTNs8F",
+          "title": "ULED TVs: Price in Pakistan | ULED TVs Installment Plans - Daraz.pk"
+        }
+      ]
+    },
+    "Home Audio": {
+      "cat": [
+        "Home Entertainment",
+        "Portable Players",
+        "Live Sound & Stage Equipment",
+        "Home Theater Systems"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/audio-home-entertainment/?spm=a2a0e.searchlistcategory.cate_9_3.1.56bf3cffwN1npq",
+          "title": "Buy Audio Home Entertainment | Audio Home Entertainment Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mp3-players-ipods/?spm=a2a0e.searchlistcategory.cate_9_3.2.56bf3cffwN1npq",
+          "title": "Portable Players Price in Pakistan 2019 | Installment Plans - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/live-sound-stage/?spm=a2a0e.searchlistcategory.cate_9_3.3.56bf3cffwN1npq",
+          "title": "Buy Live Sound Stage | Live Sound Stage Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/home-theater/?spm=a2a0e.searchlistcategory.cate_9_3.4.56bf3cffwN1npq",
+          "title": "Home Theater System Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "TV Accessories": {
+      "cat": [
+        "TV Receivers",
+        "Wall Mounts & Protectors",
+        "TV Adapters",
+        "TV Remote Controllers",
+        "3D Glasses",
+        "Antennas",
+        "Cables"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/tv-receivers/?spm=a2a0e.searchlistcategory.cate_9_4.1.24b43a24ChwHLx",
+          "title": "Buy Tv Receivers | Tv Receivers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/projectors/?spm=a2a0e.searchlistcategory.cate_9_4.2.24b43a24ChwHLx",
+          "title": "LED TVs Wall Mounts - Screen Protectors Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/tv-adapters/?spm=a2a0e.searchlistcategory.cate_9_4.3.24b43a24ChwHLx",
+          "title": "Buy Tv Adapters | Tv Adapters Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/tv-remote-controllers/?spm=a2a0e.searchlistcategory.cate_9_4.4.24b43a24ChwHLx",
+          "title": "Buy Tv Remote Controllers | Tv Remote Controllers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/3d-glasses/?spm=a2a0e.searchlistcategory.cate_9_4.5.24b43a24ChwHLx",
+          "title": "Buy D Glasses | D Glasses Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/antennas/?spm=a2a0e.searchlistcategory.cate_9_4.6.24b43a24ChwHLx",
+          "title": "Buy Antennas | Antennas Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/tv-cables/?spm=a2a0e.searchlistcategory.cate_9_4.7.24b43a24ChwHLx",
+          "title": "Buy Tv Cables | Tv Cables Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Home Audio & Theater": {
+      "cat": [
+        "Bookshelf Speakers",
+        "Center-Channel Speakers",
+        "Floorstanding Speakers",
+        "Satellite Speakers",
+        "Soundbar Speakers",
+        "Subwoofers"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/speakers/?spm=a2a0e.searchlistcategory.cate_9_5.1.5c002119esEBXg",
+          "title": "Best Speakers Price in Pakistan | Branded Speakers Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/home%20audio%20&%20theater-center-channel-speakers/?spm=a2a0e.searchlistcategory.cate_9_5.2.5c002119esEBXg",
+          "title": "سینٹرل چینل اسپیکر at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/home%20audio%20&%20theater-floorstanding-speakers/?spm=a2a0e.searchlistcategory.cate_9_5.3.5c002119esEBXg",
+          "title": "فلور اسٹینڈنگ اسپیکر at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/home%20audio%20&%20theater-satellite-speakers/?spm=a2a0e.searchlistcategory.cate_9_5.4.5c002119esEBXg",
+          "title": "سیٹلائٹ اسپیکر at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/sound-bars/?spm=a2a0e.searchlistcategory.cate_9_5.5.5c002119esEBXg",
+          "title": "Sound Bars Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/woofer-speaker/?spm=a2a0e.searchlistcategory.cate_9_5.6.5c002119esEBXg",
+          "title": "Buy Car Woofer Speakers Online @ Best Price in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Kitchen Appliances": {
+      "cat": [
+        "Refrigerators",
+        "Microwave",
+        "Oven",
+        "Freezer",
+        "Cooktop & Range",
+        "Water Generators",
+        "Water Dispensers",
+        "Dishwashers"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/refrigerators/?spm=a2a0e.searchlistcategory.cate_9_6.1.2d4e44a8Y2BX0u",
+          "title": "Refrigerators Price In Pakistan - Rs. 19000 On 0% Installment"
+        },
+        {
+          "url": "https://www.daraz.pk/microwaves/?spm=a2a0e.searchlistcategory.cate_9_6.2.2d4e44a8Y2BX0u",
+          "title": "Microwave Oven Price In Pakistan - Rs. 9500 On 0% Installment"
+        },
+        {
+          "url": "https://www.daraz.pk/large-ovens/?spm=a2a0e.searchlistcategory.cate_9_6.3.2d4e44a8Y2BX0u",
+          "title": "Buy Large Ovens in Pakistan | Large Ovens Price List - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/freezers/?spm=a2a0e.searchlistcategory.cate_9_6.4.2d4e44a8Y2BX0u",
+          "title": "Freezers Price In Pakistan - 12 Months 0% EMI - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cooktops-2/?spm=a2a0e.searchlistcategory.cate_9_6.5.2d4e44a8Y2BX0u",
+          "title": "Cooking Range Price in Pakistan | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/water-generator/?spm=a2a0e.searchlistcategory.cate_9_6.6.2d4e44a8Y2BX0u",
+          "title": "Water Generators at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/water-dispensers/?spm=a2a0e.searchlistcategory.cate_9_6.7.2d4e44a8Y2BX0u",
+          "title": "Water Dispenser Price In Pakistan - Rs. 12000 On 0% Installment"
+        },
+        {
+          "url": "https://www.daraz.pk/dishwashers-&-dryers/?spm=a2a0e.searchlistcategory.cate_9_6.8.2d4e44a8Y2BX0u",
+          "title": "Dishwashers & Dryers at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Small Kitchen Appliances": {
+      "cat": [
+        "Rice Cooker",
+        "Blender, Mixer & Grinder",
+        "Electric Kettle",
+        "Juicer & Fruit Extraction",
+        "Fryer",
+        "Water Purifier",
+        "Pressure Cookers",
+        "Specialty Cookware"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/rice-cookers/?spm=a2a0e.searchlistcategory.cate_9_7.1.2b952f5308v1fX",
+          "title": "چاول کا ککر at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/food-preparation/?spm=a2a0e.searchlistcategory.cate_9_7.2.2b952f5308v1fX",
+          "title": "Buy Food Preparation | Food Preparation Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/kettles/?spm=a2a0e.searchlistcategory.cate_9_7.3.2b952f5308v1fX",
+          "title": "Electric Kettles: Best Price Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/juicers/?spm=a2a0e.searchlistcategory.cate_9_7.4.2b952f5308v1fX",
+          "title": "Buy Juicers in Pakistan | Juicers Price List - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/fryers/?spm=a2a0e.searchlistcategory.cate_9_7.5.2b952f5308v1fX",
+          "title": "Buy Fryers | Fryers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/water-purifiers-filters-accessories/?spm=a2a0e.searchlistcategory.cate_9_7.6.2b952f5308v1fX",
+          "title": "Buy Water Purifiers Filters Accessories | Water Purifiers Filters Accessories Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/pressure-cookers/?spm=a2a0e.searchlistcategory.cate_9_7.7.2b952f5308v1fX",
+          "title": "Buy Pressure Cookers in Pakistan | Pressure Cookers Price List - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/specialty-cookware-appliances/?spm=a2a0e.searchlistcategory.cate_9_7.8.2b952f5308v1fX",
+          "title": "Buy Specialty Cookware Appliances | Specialty Cookware Appliances Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Cooling & Heating": {
+      "cat": [
+        "Fan",
+        "Air Conditioner",
+        "Air Cooler",
+        "Air Purifier",
+        "Dehumidifier",
+        "Humidifier",
+        "Water Heater"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/fans/?spm=a2a0e.searchlistcategory.cate_9_8.1.398c60a1U0QCIg",
+          "title": "Fans - Fans Price In Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/air-conditioners/?spm=a2a0e.searchlistcategory.cate_9_8.2.398c60a1U0QCIg",
+          "title": "Inverter AC Price In Pakistan | Buy Inverter ACs Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/portable-ac/?spm=a2a0e.searchlistcategory.cate_9_8.3.398c60a1U0QCIg",
+          "title": "Air Cooler Price In Pakistan - Rs. 13,000 - 0% Installation Plan"
+        },
+        {
+          "url": "https://www.daraz.pk/air-purifiers/?spm=a2a0e.searchlistcategory.cate_9_8.4.398c60a1U0QCIg",
+          "title": "Air Purifiers: Price in Pakistan | Air Purifiers Installment Plans - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/dehumidifiers/?spm=a2a0e.searchlistcategory.cate_9_8.5.398c60a1U0QCIg",
+          "title": "Buy Humidifiers [DeHumidifiers] @ Best Prices in Pakistan – Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/air-purifiers-humidifiers/?spm=a2a0e.searchlistcategory.cate_9_8.6.398c60a1U0QCIg",
+          "title": "Air Purifiers & Humidifiers Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/hot-water-systems/?spm=a2a0e.searchlistcategory.cate_9_8.7.398c60a1U0QCIg",
+          "title": "Geyser Price In Pakistan 2022 - 0% 12 Months EMI"
+        }
+      ]
+    },
+    "Irons & Garment Care": {
+      "cat": ["Irons", "Garment Steamer", "Sewing Machine"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/ironing-laundry-appliances/?spm=a2a0e.searchlistcategory.cate_9_9.1.76e611eb0T2iuY",
+          "title": "Buy Ironing Laundry Appliances | Ironing Laundry Appliances Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/steam-iron-systems/?spm=a2a0e.searchlistcategory.cate_9_9.2.76e611eb0T2iuY",
+          "title": "Steam Iron Systems Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/sewing-machines/?spm=a2a0e.searchlistcategory.cate_9_9.3.76e611eb0T2iuY",
+          "title": "Sewing Machines Price: Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Vacuums & Floor Care": {
+      "cat": [
+        "Vacuum Cleaner",
+        "Floor Polisher",
+        "Steam Mops",
+        "Electric Brooms"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/vacuum-cleaners/?spm=a2a0e.searchlistcategory.cate_9_10.1.59651271OCjhiE",
+          "title": "Vacuum Cleaners at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/floor-polishers1/?spm=a2a0e.searchlistcategory.cate_9_10.2.59651271OCjhiE",
+          "title": "Buy Floor Polishers | Floor Polishers Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/steam-mops/?spm=a2a0e.searchlistcategory.cate_9_10.3.59651271OCjhiE",
+          "title": "Steam Mops Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/electric-brooms/?spm=a2a0e.searchlistcategory.cate_9_10.4.59651271OCjhiE",
+          "title": "Buy Electric Brooms | Electric Brooms Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Generator &Portable Power": {
+      "cat": ["Generators", "UPS", "Solar Inverters & Panels"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/generators/?spm=a2a0e.searchlistcategory.cate_9_11.1.129f6dbdyHI2OW",
+          "title": "Generator Price In Pakistan - Updated Generator Price List 2022 | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/ups-inverter/?spm=a2a0e.searchlistcategory.cate_9_11.2.129f6dbdyHI2OW",
+          "title": "Ups Inverter - Ups Inverter Price In Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/solar-inverters/?spm=a2a0e.searchlistcategory.cate_9_11.3.129f6dbdyHI2OW",
+          "title": "شمسی توانائی کے انوٹرز اور پینل at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Washers & Dryers": {
+      "cat": [
+        "Washing Machine",
+        "Twin Tub Washer & Dryers",
+        "Washers & Dryers"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/washing-machines/?spm=a2a0e.searchlistcategory.cate_9_12.1.59b26ac4o9VPlK",
+          "title": "Washing Machine Price In Pakistan - Updated Washing Machine Price List 2022 - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/washer-dryer-combo/?spm=a2a0e.searchlistcategory.cate_9_12.2.59b26ac4o9VPlK",
+          "title": "Washer & Dryer Combo Online in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/washers-dryers/?spm=a2a0e.searchlistcategory.cate_9_12.3.59b26ac4o9VPlK",
+          "title": "Washers & Dryers Shop Online in Pakistan - Daraz.pk"
+        }
+      ]
+    }
+  },
+  "Sports & Outdoor": {
+    "Exercise & Fitness": {
+      "cat": [
+        "Cardio Training Equipment",
+        "Strength Training Equipments",
+        "Treadmills",
+        "Fitness Accessories",
+        "Boxing, Martial Arts & MMA",
+        "Weight",
+        "Yoga",
+        "Exercise Bands",
+        "Exercise Bikes"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/cardio-training-equipment/?spm=a2a0e.searchlistcategory.cate_10_1.1.140f2b5aSZwlku",
+          "title": "Cardio Training Equipments: Best Price Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/strength-training-equipment/?spm=a2a0e.searchlistcategory.cate_10_1.2.140f2b5aSZwlku",
+          "title": "Buy Strength Training Equipment | Strength Training Equipment Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/treadmills/?spm=a2a0e.searchlistcategory.cate_10_1.3.140f2b5aSZwlku",
+          "title": "Treadmill Price In Pakistan - Rs. 13500 On 0% Installment"
+        },
+        {
+          "url": "https://www.daraz.pk/weights-accessories/?spm=a2a0e.searchlistcategory.cate_10_1.4.140f2b5aSZwlku",
+          "title": "Buy Weights Accessories | Weights Accessories Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/boxing-martial-arts-mma/?spm=a2a0e.searchlistcategory.cate_10_1.5.140f2b5aSZwlku",
+          "title": "Boxing, Martial Arts & MMA Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/weight-training/?spm=a2a0e.searchlistcategory.cate_10_1.6.140f2b5aSZwlku",
+          "title": "Buy Weight Training | Weight Training Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/yoga/?spm=a2a0e.searchlistcategory.cate_10_1.7.140f2b5aSZwlku",
+          "title": "Yoga Accessories Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/exercise-bands-accessories/?spm=a2a0e.searchlistcategory.cate_10_1.8.140f2b5aSZwlku",
+          "title": "ورزش بینڈ at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/exercise-bikes/?spm=a2a0e.searchlistcategory.cate_10_1.9.140f2b5aSZwlku",
+          "title": "ورزش کی بائیک at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Supplements": {
+      "cat": [
+        "Proteins",
+        "Post Workouts and recovery",
+        "Pre Workouts",
+        "Fat Burners"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/protein-supplements/?spm=a2a0e.searchlistcategory.cate_10_2.1.5eba7e6bQVXEY8",
+          "title": "Protein Supplements Price In Pakistan - Rs. 2699 - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/post-workout/?spm=a2a0e.searchlistcategory.cate_10_2.2.5eba7e6bQVXEY8",
+          "title": "Page Not Found"
+        },
+        {
+          "url": "https://www.daraz.pk/pre-workout-supplements/?spm=a2a0e.searchlistcategory.cate_10_2.3.5eba7e6bQVXEY8",
+          "title": "Buy Pre Workout Supplements | Pre Workout Supplements Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/fat-burner/?spm=a2a0e.searchlistcategory.cate_10_2.4.5eba7e6bQVXEY8",
+          "title": "Buy Fat Burner | Fat Burner Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Team Sports": {
+      "cat": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Basket Ball",
+        "Volley balls",
+        "Baseballs"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/sports-cricket/?spm=a2a0e.searchlistcategory.cate_10_4.1.3406574edpz6IG",
+          "title": "Cricket Pakistan: Cricket Official Store at Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/football/?spm=a2a0e.searchlistcategory.cate_10_4.2.3406574edpz6IG",
+          "title": "Buy Football Kits & Accessories @ Best Prices in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/sports-hockey/?spm=a2a0e.searchlistcategory.cate_10_4.3.3406574edpz6IG",
+          "title": "Buy Sports Hockey | Sports Hockey Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/basket-ball/?spm=a2a0e.searchlistcategory.cate_10_4.4.3406574edpz6IG",
+          "title": "باسکٹ بالس at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/volleyball/?spm=a2a0e.searchlistcategory.cate_10_4.5.3406574edpz6IG",
+          "title": "Volleyball & Accessories Online Shopping Store in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/sports-baseball/?spm=a2a0e.searchlistcategory.cate_10_4.6.3406574edpz6IG",
+          "title": "Buy Sports Baseball | Sports Baseball Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Racket Sports": {
+      "cat": ["Badminton", "Tennis", "Squash"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/badminton/?spm=a2a0e.searchlistcategory.cate_10_5.1.245d3d48wI3Fvi",
+          "title": "Buy Badminton | Badminton Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/tennis/?spm=a2a0e.searchlistcategory.cate_10_5.2.245d3d48wI3Fvi",
+          "title": "Buy Tennis | Tennis Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/squash/?spm=a2a0e.searchlistcategory.cate_10_5.3.245d3d48wI3Fvi",
+          "title": "Squash Accessories Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Outdoor Recreation": {
+      "cat": [
+        "Cycling",
+        "Cycle accessories",
+        "Camping / Hiking",
+        "Other activities",
+        "Water Sports",
+        "Fishing",
+        "Skate Boards"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/bikes/?spm=a2a0e.searchlistcategory.cate_10_6.1.2f7348ebRq2Ho0",
+          "title": "Buy Bikes in Pakistan | Bikes Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cycling-accessories/?spm=a2a0e.searchlistcategory.cate_10_6.2.2f7348ebRq2Ho0",
+          "title": "بائیک کی ایکسیسیریز Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/camping-hiking/?spm=a2a0e.searchlistcategory.cate_10_6.3.2f7348ebRq2Ho0",
+          "title": "Camping Equipments:Bags & Accessories Online - Daraz Pakistan"
+        },
+        {
+          "url": "https://www.daraz.pk/outdoor-activities/?spm=a2a0e.searchlistcategory.cate_10_6.4.2f7348ebRq2Ho0",
+          "title": "Outdoor Activities Equipments Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/water-sports/?spm=a2a0e.searchlistcategory.cate_10_6.5.2f7348ebRq2Ho0",
+          "title": "واٹر اسپورٹس Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/fishing/?spm=a2a0e.searchlistcategory.cate_10_6.6.2f7348ebRq2Ho0",
+          "title": "Buy Fishing in Pakistan | Fishing Price - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/skateboarding/?spm=a2a0e.searchlistcategory.cate_10_6.7.2f7348ebRq2Ho0",
+          "title": "Buy Skateboarding | Skateboarding Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Fitness Gadgets": {
+      "cat": ["Fitness Trackers", "Fitness Trackers Accessories"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/fitness-trackers/?spm=a2a0e.searchlistcategory.cate_10_7.1.490b4845NCLVGP",
+          "title": "صحت ٹریکرز at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/fitness-trackers-accessories/?spm=a2a0e.searchlistcategory.cate_10_7.2.490b4845NCLVGP",
+          "title": "صحت ٹریکرز کی ایکسیسیریز at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Sports Accessories": {
+      "cat": ["Water Bottles", "Home Gym"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/sports-water-bottles/?spm=a2a0e.searchlistcategory.cate_10_8.1.23eb7a0apEU2Ix",
+          "title": "Buy Sports Water Bottles | Sports Water Bottles Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/home-gym/?spm=a2a0e.searchlistcategory.cate_10_8.2.23eb7a0apEU2Ix",
+          "title": "Home Gym Equipments Online in Pakistan - Daraz.pk"
+        }
+      ]
+    }
+  },
+  "Watches, Bags & Jewellery": {
+    "Men's Watches": {
+      "cat": [
+        "Chronograph",
+        "Branded Watches",
+        "Analog",
+        "Digital",
+        "Accessories",
+        "Smart Watches"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/mens-analog/?spm=a2a0e.searchlistcategory.cate_11_1.1.36534e32d3DOyX",
+          "title": "Business at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-chronograph/?spm=a2a0e.searchlistcategory.cate_11_1.2.36534e32d3DOyX&service=OS",
+          "title": "Fashion at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-digital/?spm=a2a0e.searchlistcategory.cate_11_1.3.36534e32d3DOyX",
+          "title": "Men's Digital Watches Online in Pakistan | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-sports-watches/?spm=a2a0e.searchlistcategory.cate_11_1.4.36534e32d3DOyX",
+          "title": "Sports at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-watch-accessories/?spm=a2a0e.searchlistcategory.cate_11_1.5.36534e32d3DOyX",
+          "title": "Accessories at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-sports-watches/?spm=a2a0e.searchlistcategory.cate_11_1.6.36534e32d3DOyX",
+          "title": "Sports at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Women's Watches": {
+      "cat": [
+        "Chronograph",
+        "Branded Watches",
+        "Analog",
+        "Digital",
+        "Accessories",
+        "Smart Watches"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/sports-travel/?spm=a2a0e.searchlistcategory.cate_11_2.1.482e3274cueu5G",
+          "title": "Sports - Fitness Accessories Online Shopping Store in Pakistan with COD! - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-fashion-watches-wsj/?spm=a2a0e.searchlistcategory.cate_11_2.2.482e3274cueu5G&service=OS",
+          "title": "Fashion at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-casual-watches-wsj/?spm=a2a0e.searchlistcategory.cate_11_2.3.482e3274cueu5G",
+          "title": "Casual at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-sports-watches-wsj/?spm=a2a0e.searchlistcategory.cate_11_2.4.482e3274cueu5G",
+          "title": "اسپورٹس at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-watch-accessories/?spm=a2a0e.searchlistcategory.cate_11_2.5.482e3274cueu5G",
+          "title": "Accessories at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-sports-watches-wsj/?spm=a2a0e.searchlistcategory.cate_11_2.6.482e3274cueu5G",
+          "title": "اسپورٹس at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Kid's Watches": {
+      "cat": ["Boys", "Girls"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/boys-watches/?spm=a2a0e.searchlistcategory.cate_11_3.1.8e0550d9CxUDaP",
+          "title": "Boy's Cool Watches Online Store in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/girls-watches/?spm=a2a0e.searchlistcategory.cate_11_3.2.8e0550d9CxUDaP",
+          "title": "Buy Stylish Girls Watches Online @ Best Price in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Womens Bags": {
+      "cat": [
+        "Cross Body & Shoulder Bags",
+        "Top-Handle Bags",
+        "Tote Bags",
+        "Backpacks",
+        "Clutches",
+        "Wallets & Accessories",
+        "Wristlets"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/cross-body-shoulder-bags/?spm=a2a0e.searchlistcategory.cate_11_4.1.636ff992wVumKg",
+          "title": "Buy Cross Body Shoulder Bags | Cross Body Shoulder Bags Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-office-digital/?spm=a2a0e.searchlistcategory.cate_11_4.2.636ff992wVumKg",
+          "title": "Women's Office & Digital Accessories Online - Daraz Pakistan"
+        },
+        {
+          "url": "https://www.daraz.pk/tote-bags/?spm=a2a0e.searchlistcategory.cate_11_4.3.636ff992wVumKg",
+          "title": "Buy Tote Bags | Tote Bags Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-backpacks/?spm=a2a0e.searchlistcategory.cate_11_4.4.636ff992wVumKg",
+          "title": "Buy Womens Backpacks | Womens Backpacks Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-clutch-bags/?spm=a2a0e.searchlistcategory.cate_11_4.5.636ff992wVumKg",
+          "title": "Women's Clutch Bags: Buy Designers Ladies Clutch Online at Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/wallets-accessories/?spm=a2a0e.searchlistcategory.cate_11_4.6.636ff992wVumKg",
+          "title": "Buy Wallets Accessories | Wallets Accessories Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/bags-wristlets/?spm=a2a0e.searchlistcategory.cate_11_4.7.636ff992wVumKg",
+          "title": "Buy Bags Wristlets | Bags Wristlets Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Mens Bags": {
+      "cat": [
+        "Wallets & Cardholders",
+        "Backpacks",
+        "Crossbody Bags",
+        "Business Bags",
+        "Messenger Bags",
+        "Cardholders & Keychains"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/mens-wallets-cardholders/?spm=a2a0e.searchlistcategory.cate_11_5.1.1f1c1c24mocewK",
+          "title": "Buy Men's Wallets & Cardholders Online | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/men-bags-backpacks/?spm=a2a0e.searchlistcategory.cate_11_5.2.1f1c1c24mocewK",
+          "title": "Buy Men Bags Backpacks | Men Bags Backpacks Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-formal-bags/?spm=a2a0e.searchlistcategory.cate_11_5.3.1f1c1c24mocewK",
+          "title": "Men's Shoulder & Hand Bags Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/backpacks-and-briefcases/?spm=a2a0e.searchlistcategory.cate_11_5.4.1f1c1c24mocewK",
+          "title": "Buy Backpacks And Briefcases | Backpacks And Briefcases Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/men-messenger-bags/?spm=a2a0e.searchlistcategory.cate_11_5.5.1f1c1c24mocewK",
+          "title": "Buy Men Messenger Bags | Men Messenger Bags Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/wallets-mens-card-holders/?spm=a2a0e.searchlistcategory.cate_11_5.6.1f1c1c24mocewK",
+          "title": "Card Holders at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Luggage & Suitcase": {
+      "cat": ["Travel Accessories", "Laptop Bags", "Luggage", "Duffel Bags"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/travel-accessories/?spm=a2a0e.searchlistcategory.cate_11_6.1.47cd1bb0ru4kkZ",
+          "title": "Buy Travel Accessories | Travel Accessories Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/laptop-bags-cover/?spm=a2a0e.searchlistcategory.cate_11_6.2.47cd1bb0ru4kkZ",
+          "title": "Laptop Bags & Sleeves Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/luggage/?spm=a2a0e.searchlistcategory.cate_11_6.3.47cd1bb0ru4kkZ",
+          "title": "Luggage Shop: Carry-On Bags & Suitcases Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/catalog/?spm=a2a0e.searchlistcategory.cate_11_6.4.47cd1bb0ru4kkZ&q=duffel+bag&_keyori=ss&from=input",
+          "title": "duffel bag - Buy duffel bag at Best Price in Pakistan | www.daraz.pk"
+        }
+      ]
+    },
+    "Womens Jewellery": {
+      "cat": [
+        "Rings",
+        "Earrings",
+        "Necklaces",
+        "Bracelets",
+        "Anklets",
+        "Jewellery Sets"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/jewellery-rings-473/?spm=a2a0e.searchlistcategory.cate_11_8.1.6fb56438yIBzyL",
+          "title": "انگوٹھیاں at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/jewellery-necklaces-&-pendants-469/?spm=a2a0e.searchlistcategory.cate_11_8.2.6fb56438yIBzyL",
+          "title": "Necklaces & Pendants at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/accessories-bracelets/?spm=a2a0e.searchlistcategory.cate_11_8.3.6fb56438yIBzyL",
+          "title": "کڑے at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/jewellery-earrings-465/?spm=a2a0e.searchlistcategory.cate_11_8.4.6fb56438yIBzyL",
+          "title": "Earrings at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/jewellery-necklaces-&-pendants-469/?spm=a2a0e.searchlistcategory.cate_11_8.5.6fb56438yIBzyL",
+          "title": "Necklaces & Pendants at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Mens Jewellery": {
+      "cat": ["Rings", "Chains", "Bracelets", "Studs", "Pendants"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/jewellery-rings-473/?spm=a2a0e.searchlistcategory.cate_11_8.1.5b8120e6KVaDdt",
+          "title": "انگوٹھیاں at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/jewellery-necklaces-&-pendants-469/?spm=a2a0e.searchlistcategory.cate_11_8.2.5b8120e6KVaDdt",
+          "title": "Necklaces & Pendants at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/accessories-bracelets/?spm=a2a0e.searchlistcategory.cate_11_8.3.5b8120e6KVaDdt",
+          "title": "کڑے at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/jewellery-earrings-465/?spm=a2a0e.searchlistcategory.cate_11_8.4.5b8120e6KVaDdt",
+          "title": "Earrings at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/jewellery-necklaces-&-pendants-469/?spm=a2a0e.searchlistcategory.cate_11_8.5.5b8120e6KVaDdt",
+          "title": "Necklaces & Pendants at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Mens Accessories": {
+      "cat": [
+        "Belts",
+        "Hats & Caps",
+        "Scarves",
+        "Socks",
+        "Ties & Bow Ties",
+        "Gloves"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/mens-belt/?spm=a2a0e.searchlistcategory.cate_11_9.1.7b7220e6RYXawu",
+          "title": "Belts at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/men-accessories-hats/?spm=a2a0e.searchlistcategory.cate_11_9.2.7b7220e6RYXawu",
+          "title": "Buy Men Accessories Hats in Pakistan | Men Accessories Hats Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-scarves-mufflers/?spm=a2a0e.searchlistcategory.cate_11_9.3.7b7220e6RYXawu",
+          "title": "Men's Scarves & Mufflers - Online Shop Daraz Pakistan"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-socks/?spm=a2a0e.searchlistcategory.cate_11_9.4.7b7220e6RYXawu",
+          "title": "Socks: Buy Men's Socks Online in Pakistan | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-ties-cufflinks/?spm=a2a0e.searchlistcategory.cate_11_9.5.7b7220e6RYXawu",
+          "title": "Men's Formal & Casual Tie and Cufflinks Online in Pakistan | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-gloves/?spm=a2a0e.searchlistcategory.cate_11_9.6.7b7220e6RYXawu",
+          "title": "Men's Sports Gloves Online in Pakistan - Daraz.pk"
+        }
+      ]
+    },
+    "Women's Accessories": {
+      "cat": [
+        "Scarves",
+        "Belts",
+        "Socks & Tights",
+        "Hats & Caps",
+        "Gloves",
+        "Hair Accessories"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/womens-scarves-mufflers/?spm=a2a0e.searchlistcategory.cate_11_10.1.43301516MHLjR3",
+          "title": "Buy Women Scarves & Shawls @ Best Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/women-belts/?spm=a2a0e.searchlistcategory.cate_11_10.2.43301516MHLjR3",
+          "title": "Belts at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-socks-stockings/?spm=a2a0e.searchlistcategory.cate_11_10.3.43301516MHLjR3",
+          "title": "Women's Socks & Stockings Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-hats-caps-gloves/?spm=a2a0e.searchlistcategory.cate_11_10.4.43301516MHLjR3",
+          "title": "ہیٹ اور کیپ at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-gloves/?spm=a2a0e.searchlistcategory.cate_11_10.5.43301516MHLjR3",
+          "title": "Buy Womens Gloves in Pakistan | Womens Gloves Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/women-hair-accessories/?spm=a2a0e.searchlistcategory.cate_11_10.6.43301516MHLjR3",
+          "title": "Hair Accessories at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Sunglasses & Eyewear": {
+      "cat": [
+        "Men Sunglasses",
+        "Unisex Sunglasses",
+        "Women Eyeglasses",
+        "Unisex Eyeglasses",
+        "Kids Sunglasses",
+        "Women Sunglasses",
+        "Men Eyeglasses",
+        "Kids Eyeglasses",
+        "Lenses"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/mens-sunglasses/?spm=a2a0e.searchlistcategory.cate_11_11.1.1de232f4Mx2iUg",
+          "title": "Buy Men's Sunglasses Online in Pakistan | Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/unisex-sunglasses/?spm=a2a0e.searchlistcategory.cate_11_11.2.1de232f4Mx2iUg",
+          "title": "Unisex at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-eyeglasses/?spm=a2a0e.searchlistcategory.cate_11_11.3.1de232f4Mx2iUg",
+          "title": "Women چشمے Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/temporary-url-key-level4-12/?spm=a2a0e.searchlistcategory.cate_11_11.4.1de232f4Mx2iUg",
+          "title": "Unisex Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/kids-sunglasses/?spm=a2a0e.searchlistcategory.cate_11_11.5.1de232f4Mx2iUg",
+          "title": "Kids at Best Price in Pakistan - daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/womens-sunglasses/?spm=a2a0e.searchlistcategory.cate_11_11.6.1de232f4Mx2iUg",
+          "title": "Womens Sunglasses: Buy Ladies Sunglasses Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/mens-eyeglasses/?spm=a2a0e.searchlistcategory.cate_11_11.7.1de232f4Mx2iUg",
+          "title": "Men چشمے Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/kids-eyewear/?spm=a2a0e.searchlistcategory.cate_11_11.8.1de232f4Mx2iUg",
+          "title": "Kids Price in Pakistan | 10% Bank Discount"
+        },
+        {
+          "url": "https://www.daraz.pk/contact-lenses/?spm=a2a0e.searchlistcategory.cate_11_11.9.1de232f4Mx2iUg",
+          "title": "Best Contact Lenses - Colored Eye Lenses Price in Pakistan - Daraz.pk"
+        }
+      ]
+    }
+  },
+  "Automotive & Motorbike": {
+    "Automotive": {
+      "cat": [
+        "Car Tires & Wheels",
+        "Car Oils & Fluids",
+        "Car Interior Accessories",
+        "Car Tools & Equipment",
+        "Car Parts & Spares",
+        "Car Care",
+        "Car Exterior Accessories",
+        "Car Electronics",
+        "Car Safety & Security"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/wheels-tires/?spm=a2a0e.searchlistcategory.cate_12_1.1.34871517fR9T6Z",
+          "title": "Buy Wheels Tires | Wheels Tires Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/oils-fluids/?spm=a2a0e.searchlistcategory.cate_12_1.2.34871517fR9T6Z",
+          "title": "Buy Oils Fluids | Oils Fluids Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/interior-accessories/?spm=a2a0e.searchlistcategory.cate_12_1.3.34871517fR9T6Z",
+          "title": "Car Interior Accessories Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/tools-equipment/?spm=a2a0e.searchlistcategory.cate_12_1.4.34871517fR9T6Z",
+          "title": "Tools and Equipment Online in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/auto-parts-spares/?spm=a2a0e.searchlistcategory.cate_12_1.5.34871517fR9T6Z",
+          "title": "Buy Auto Parts Spares | Auto Parts Spares Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/motors-car-care/?spm=a2a0e.searchlistcategory.cate_12_1.6.34871517fR9T6Z",
+          "title": "Buy Motors Car Care | Motors Car Care Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/exterior-accessories/?spm=a2a0e.searchlistcategory.cate_12_1.7.34871517fR9T6Z",
+          "title": "Buy Exterior Accessories | Exterior Accessories Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/car-electronics-accessories/?spm=a2a0e.searchlistcategory.cate_12_1.8.34871517fR9T6Z",
+          "title": "Buy Car Electronics Accessories | Car Electronics Accessories Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/car-safety-security/?spm=a2a0e.searchlistcategory.cate_12_1.9.34871517fR9T6Z",
+          "title": "Buy Car Safety Security | Car Safety Security Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Motorcycle": {
+      "cat": [
+        "Electric Bikes",
+        "Standard Bikes",
+        "ATVs & UTVs",
+        "Sports Bikes",
+        "Riding Gear",
+        "Motorcycle Helmets",
+        "Motorcycle Tires & Wheels",
+        "Motorcycle Parts & Spares",
+        "Motorcycle Oil & Fluids",
+        "Motorcycle Accessories"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/electric-motor-bikes/?spm=a2a0e.searchlistcategory.cate_12_2.1.24464182sYQByL",
+          "title": "Buy Electric Motor Bikes | Electric Motor Bikes Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/standard-bikes/?spm=a2a0e.searchlistcategory.cate_12_2.2.24464182sYQByL",
+          "title": "Bikes in Pakistan | Latest Motorbike Price List in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/atv-scooters/?spm=a2a0e.searchlistcategory.cate_12_2.3.24464182sYQByL",
+          "title": "Buy Atv Scooters | Atv Scooters Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/motorcycle-sportbikes/?spm=a2a0e.searchlistcategory.cate_12_2.4.24464182sYQByL",
+          "title": "Buy Motorcycle Sportbikes | Motorcycle Sportbikes Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/motorcycle-riding-gear/?spm=a2a0e.searchlistcategory.cate_12_2.5.24464182sYQByL",
+          "title": "Buy Motorcycle Riding Gear | Motorcycle Riding Gear Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/motorcycle-helmets/?spm=a2a0e.searchlistcategory.cate_12_2.6.24464182sYQByL",
+          "title": "Buy Motorcycle Bike Helmets Online @ Best Price in Pakistan - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/moto-tires-wheels/?spm=a2a0e.searchlistcategory.cate_12_2.7.24464182sYQByL",
+          "title": "Buy Moto Tires Wheels | Moto Tires Wheels Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/motorcycle-parts-spares/?spm=a2a0e.searchlistcategory.cate_12_2.8.24464182sYQByL",
+          "title": "Buy Motorcycle Parts Spares | Motorcycle Parts Spares Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/motorcycle-oils-fluids/?spm=a2a0e.searchlistcategory.cate_12_2.9.24464182sYQByL",
+          "title": "Buy Motorcycle Oils Fluids | Motorcycle Oils Fluids Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/motorcycle-exterior-accessories/?spm=a2a0e.searchlistcategory.cate_12_2.10.24464182sYQByL",
+          "title": "Buy Motorcycle Exterior Accessories | Motorcycle Exterior Accessories Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Cars": {
+      "cat": [
+        "Automatic Cars",
+        "Manual Cars",
+        "Imported Cars",
+        "Used Cars",
+        "SUVs"
+      ],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/automatic-cars/?spm=a2a0e.searchlistcategory.cate_12_3.1.4bdc63b5kw8XuX",
+          "title": "Buy Automatic Cars | Automatic Cars Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/manual-cars/?spm=a2a0e.searchlistcategory.cate_12_3.2.4bdc63b5kw8XuX",
+          "title": "Buy Manual Cars | Manual Cars Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/imported-cars/?spm=a2a0e.searchlistcategory.cate_12_3.3.4bdc63b5kw8XuX",
+          "title": "Buy Imported Cars | Imported Cars Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/used-cars/?spm=a2a0e.searchlistcategory.cate_12_3.4.4bdc63b5kw8XuX",
+          "title": "Buy Used Cars | Used Cars Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/cars-suv/?spm=a2a0e.searchlistcategory.cate_12_3.5.4bdc63b5kw8XuX",
+          "title": "SUVs at Best Price in Pakistan - daraz.pk"
+        }
+      ]
+    },
+    "Loaders & Rickshaw": {
+      "cat": ["Loaders", "Auto Rikshaw"],
+      "urls": [
+        {
+          "url": "https://www.daraz.pk/loaders/?spm=a2a0e.searchlistcategory.cate_12_4.1.7909fa88FN89j1",
+          "title": "Buy Loaders | Loaders Price Online - Daraz.pk"
+        },
+        {
+          "url": "https://www.daraz.pk/auto-rikshaw/?spm=a2a0e.searchlistcategory.cate_12_4.2.7909fa88FN89j1",
+          "title": "Buy Auto Rikshaw | Auto Rikshaw Price Online - Daraz.pk"
+        }
+      ]
+    },
+    "Fuel": { "cat": [""], "urls": [""] }
+  }
+}
