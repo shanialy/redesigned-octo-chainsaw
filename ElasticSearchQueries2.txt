@@ -1,0 +1,58 @@
+#####top 20 products jinka discount sabsy zyada hai#####.
+GET pricechoice_v3/_search
+{
+    "sort": [
+        {
+            "discount": {
+                "order": "desc" 
+            }
+        }
+    ],
+    "size":20
+}
+#####top 20 products jinki rating high hai#####.
+GET pricechoice_v3/_search
+{
+    "sort": [
+        {
+            "rating": {
+                "order": "desc" 
+            }
+        }
+    ],
+    "size":20
+}
+#####top discount by domain.#####
+GET pricechoice_v3/_search
+{
+  "query": {
+    "match": {
+      "domain": "brandsego.com"
+    }
+  },
+  "sort": [
+        {
+            "discount": {
+                "order": "desc" 
+            }
+        }
+    ],
+    "size":20
+}
+#####top discount by product_type#####.
+GET pricechoice_v3/_search
+{
+  "query": {
+    "match": {
+      "product_type": "tshirt"
+    }
+  },
+  "sort": [
+        {
+            "discount": {
+                "order": "desc" 
+            }
+        }
+    ],
+    "size":20
+}
