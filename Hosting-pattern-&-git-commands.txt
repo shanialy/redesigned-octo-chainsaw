@@ -1,0 +1,39 @@
+https://fresh-repo.vercel.app/
+login,
+connect to github.
+search for repo.
+Auto deploy on github push selected.
+Deploy.
+git branch <Name>
+git checkout <Name>
+main pe rakho agar development mn bhjna hai.
+git add .
+git commit
+main pe push : git push --set-upstream origin main
+
+git checkout gituse
+gituse pe rakho agar tmny ussay github pe bhjna hai.
+git add .
+git commit
+gituse ka push : git push
+================================================================
+https://pricesure.herokuapp.com/
+signup/connect with github
+import repo.
+Deploy repo.
+git checkout main
+main pe rakho agar development mn bhjna hai.
+git add .
+git commit
+main pe push : git push --set-upstream origin main
+
+git checkout gitwise
+gituse pe rakho agar tmny ussay github pe bhjna hai.
+git add .
+git commit
+gitwise ka push : git push
+
+
+
+
+
